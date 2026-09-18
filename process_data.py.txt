@@ -1,0 +1,39 @@
+import pandas as pd
+from sqlalchemy import create_engine
+
+# 1. الاتصال بقاعدة البيانات الجديدة
+# استبدلي YOUR_PASSWORD بكلمة سر PostgreSQL الخاصة بكِ
+db_password = "YOUR_PASSWORD" 
+engine = create_engine(f"postgresql://postgres:{db_password}@localhost:5432/bundesliga_player_analytics_db")
+
+print("جاري قراءة البيانات وتنظيفها...")
+
+# 2. قراءة البيانات
+df = pd.read_csv("players_data-2025_2026.csv")
+
+# 3. تصفية لاعبي الدوري الألماني فقط
+df_bundesliga = df[df['Comp'].str.contains('Bundesliga', case=False, na=False)].copy()
+
+# 4. اختيار الأعمدة الـ 22
+selected_cols = [
+    'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', 
+    'MP', 'Starts', 'Min', '90s', 'Gls', 'Ast', 'G+A', 'CrdY', 'CrdR', 
+    'Sh', 'SoT', 'Fls', 'Fld', 'TklW'
+]
+
+df_clean = df_bundesliga[selected_cols].copy()
+
+# 5. تصحيح أسماء الأعمدة وأنواع البيانات (تحويل born لرقم صحيح وتعبئة القيم الفارغة)
+df_clean.columns = [
+    'rk', 'player', 'nation', 'pos', 'squad', 'comp', 'age', 'born', 
+    'mp', 'starts', 'min_played', 'nineties', 'gls', 'ast', 'g_plus_a', 
+    'crd_y', 'crd_r', 'sh', 'sot', 'fls', 'fld', 'tklw'
+]
+
+df_clean['born'] = df_clean['born'].fillna(0).astype(int)
+df_clean = df_clean.fillna(0)
+
+# 6. رفع البيانات المباشر إلى PostgreSQL
+df_clean.to_sql('bundesliga_players', engine, if_exists='replace', index=False)
+
+print("\n تم رفع 507 لاعب من الدوري الألماني إلى قاعدة البيانات PostgreSQL بنجاح تام!")

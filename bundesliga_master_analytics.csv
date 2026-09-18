@@ -1,0 +1,508 @@
+"player","squad","comp","pos","age","born","matches_played","starts","min_played","nineties","goals","assists","total_contributions","yellow_cards","red_cards","total_shots","shots_on_target","fouls_committed","fouls_drawn","tackles_won","fatigue_percentage","fatigue_status","contributions_per_90"
+"Maximilian Eggestein","Freiburg","de Bundesliga","MF",28.0,1996,34,34,3060,34.0,3,1,4,4,0,44,13,18,20,34,113.3,"إرهاق مرتفع جداً",0.12
+"Oliver Baumann","Hoffenheim","de Bundesliga","GK",35.0,1990,34,34,3060,34.0,0,0,0,3,0,0,0,1,6,0,113.3,"إرهاق مرتفع جداً",0.00
+"Nikola Vasilj","St Pauli","de Bundesliga","GK",29.0,1995,34,34,3060,34.0,0,0,0,0,0,0,0,0,1,1,113.3,"إرهاق مرتفع جداً",0.00
+"Finn Dahmen","Augsburg","de Bundesliga","GK",27.0,1998,34,34,3060,34.0,0,0,0,1,0,1,0,0,9,0,113.3,"إرهاق مرتفع جداً",0.00
+"Noah Atubolu","Freiburg","de Bundesliga","GK",23.0,2002,34,34,3060,34.0,0,0,0,1,0,0,0,0,6,0,113.3,"إرهاق مرتفع جداً",0.00
+"Danilho Doekhi","Union Berlin","de Bundesliga","DF",27.0,1998,34,34,3060,34.0,5,0,5,4,0,45,11,28,15,31,113.3,"إرهاق مرتفع جداً",0.15
+"Alexander Nübel","Stuttgart","de Bundesliga","GK",28.0,1996,34,34,3060,34.0,0,1,1,0,0,0,0,1,7,0,113.3,"إرهاق مرتفع جداً",0.03
+"Kamil Grabara","Wolfsburg","de Bundesliga","GK",26.0,1999,34,34,3060,34.0,0,0,0,1,0,1,0,0,2,1,113.3,"إرهاق مرتفع جداً",0.00
+"Gregor Kobel","Dortmund","de Bundesliga","GK",27.0,1997,34,34,3060,34.0,0,0,0,3,0,0,0,0,5,0,113.3,"إرهاق مرتفع جداً",0.00
+"Patrick Mainka","Heidenheim","de Bundesliga","DF",30.0,1994,34,34,3060,34.0,2,2,4,1,0,37,9,10,20,30,113.3,"إرهاق مرتفع جداً",0.12
+"Moritz Nicolas","Gladbach","de Bundesliga","GK",27.0,1997,34,34,3060,34.0,0,0,0,1,0,0,0,0,3,1,113.3,"إرهاق مرتفع جداً",0.00
+"Marvin Schwäbe","Köln","de Bundesliga","GK",30.0,1995,34,34,3060,34.0,0,0,0,2,0,0,0,1,4,1,113.3,"إرهاق مرتفع جداً",0.00
+"Kaishu Sano","Mainz 05","de Bundesliga","MF",24.0,2000,34,34,3059,34.0,1,2,3,1,0,24,6,14,29,31,113.3,"إرهاق مرتفع جداً",0.09
+"Jakub Kamiński","Köln","de Bundesliga","MF,FW",23.0,2002,34,34,3016,33.5,7,3,10,4,0,62,25,14,28,27,111.7,"إرهاق مرتفع جداً",0.30
+"Vladimír Coufal","Hoffenheim","de Bundesliga","DF,MF",32.0,1992,34,34,3012,33.5,1,8,9,4,0,26,6,32,42,35,111.6,"إرهاق مرتفع جداً",0.27
+"Romano Schmid","Werder Bremen","de Bundesliga","MF,FW",25.0,2000,34,34,2982,33.1,4,8,12,4,0,57,21,19,31,28,110.4,"إرهاق مرتفع جداً",0.36
+"Daniel Heuer Fernandes","Hamburger SV","de Bundesliga","GK",32.0,1992,33,33,2970,33.0,0,0,0,3,0,1,0,0,4,0,110.0,"إرهاق مرتفع جداً",0.00
+"Nico Elvedi","Gladbach","de Bundesliga","DF",28.0,1996,33,33,2966,33.0,0,2,2,5,0,9,0,18,16,32,109.9,"إرهاق مرتفع جداً",0.06
+"Willi Orban","RB Leipzig","de Bundesliga","DF",32.0,1992,33,33,2949,32.8,2,0,2,4,0,20,9,20,23,33,109.2,"إرهاق مرتفع جداً",0.06
+"Mio Backhaus","Werder Bremen","de Bundesliga","GK",21.0,2004,32,32,2880,32.0,0,0,0,1,0,0,0,0,13,0,106.7,"إرهاق مرتفع جداً",0.00
+"Nicolai Remberg","Hamburger SV","de Bundesliga","MF",25.0,2000,32,32,2880,32.0,0,2,2,11,0,17,8,44,48,27,106.7,"إرهاق مرتفع جداً",0.06
+"Waldemar Anton","Dortmund","de Bundesliga","DF",29.0,1996,32,32,2880,32.0,2,0,2,3,0,16,6,26,16,42,106.7,"إرهاق مرتفع جداً",0.06
+"Leon Avdullahu","Hoffenheim","de Bundesliga","MF",21.0,2004,33,32,2834,31.5,0,1,1,5,0,14,2,27,12,30,105.0,"إرهاق مرتفع جداً",0.03
+"Matthias Ginter","Freiburg","de Bundesliga","DF",31.0,1994,32,32,2833,31.5,3,3,6,3,0,19,7,16,19,14,104.9,"إرهاق مرتفع جداً",0.19
+"Robin Koch","Eintracht Frankfurt","de Bundesliga","DF",29.0,1996,32,32,2833,31.5,3,1,4,3,1,15,5,31,13,27,104.9,"إرهاق مرتفع جداً",0.13
+"Rani Khedira","Union Berlin","de Bundesliga","MF",31.0,1994,32,32,2830,31.4,5,1,6,7,0,23,10,52,18,35,104.8,"إرهاق مرتفع جداً",0.19
+"Robin Fellhauer","Augsburg","de Bundesliga","MF",27.0,1998,34,31,2799,31.1,3,2,5,2,0,30,9,25,33,43,103.7,"إرهاق مرتفع جداً",0.16
+"Diant Ramaj","Heidenheim","de Bundesliga","GK",23.0,2001,31,31,2790,31.0,0,1,1,2,0,0,0,2,2,0,103.3,"إرهاق مرتفع جداً",0.03
+"Christoph Baumgartner","RB Leipzig","de Bundesliga","MF",25.0,1999,33,32,2780,30.9,13,8,21,10,0,81,35,63,33,40,103.0,"إرهاق مرتفع جداً",0.68
+"Senne Lynen","Werder Bremen","de Bundesliga","MF",26.0,1999,31,31,2752,30.6,0,0,0,4,0,25,4,38,12,33,101.9,"إرهاق مرتفع جداً",0.00
+"Angelo Stiller","Stuttgart","de Bundesliga","MF",24.0,2001,34,30,2743,30.5,2,5,7,1,0,17,8,18,44,23,101.6,"إرهاق مرتفع جداً",0.23
+"Leopold Querfeld","Union Berlin","de Bundesliga","DF",21.0,2003,31,30,2705,30.1,3,0,3,7,0,29,10,46,28,27,100.2,"إرهاق مرتفع جداً",0.10
+"Danny da Costa","Mainz 05","de Bundesliga","DF,MF",32.0,1993,34,30,2695,29.9,2,3,5,3,0,14,5,22,24,27,99.8,"إرهاق مرتفع جداً",0.17
+"Nicolas Seiwald","RB Leipzig","de Bundesliga","MF",24.0,2001,33,31,2694,29.9,0,2,2,2,0,20,7,18,6,47,99.8,"إرهاق مرتفع جداً",0.07
+"Aleix García","Leverkusen","de Bundesliga","MF",28.0,1997,33,31,2667,29.6,3,8,11,6,0,30,5,8,19,20,98.8,"إرهاق مرتفع جداً",0.37
+"Joel Fujita","St Pauli","de Bundesliga","MF",23.0,2002,32,31,2665,29.6,1,3,4,6,0,32,7,37,19,36,98.7,"إرهاق مرتفع جداً",0.14
+"Nathaniel Brown","Eintracht Frankfurt","de Bundesliga","MF,DF",22.0,2003,33,29,2656,29.5,4,4,8,3,0,18,9,27,33,57,98.4,"إرهاق مرتفع جداً",0.27
+"Frederik Rønnow","Union Berlin","de Bundesliga","GK",32.0,1992,30,30,2640,29.3,0,0,0,2,0,0,0,1,3,1,97.8,"إرهاق مرتفع جداً",0.00
+"Rocco Reitz","Gladbach","de Bundesliga","MF",23.0,2002,31,31,2627,29.2,0,4,4,8,1,47,14,35,55,42,97.3,"إرهاق مرتفع جداً",0.14
+"Joe Scally","Gladbach","de Bundesliga","DF,MF",22.0,2002,32,29,2608,29.0,2,3,5,8,0,16,10,33,51,27,96.6,"إرهاق مرتفع جداً",0.17
+"Hauke Wahl","St Pauli","de Bundesliga","DF",31.0,1994,30,29,2592,28.8,2,1,3,1,0,10,4,11,13,32,96.0,"إرهاق مرتفع جداً",0.10
+"Arkadiusz Pyrka","St Pauli","de Bundesliga","MF",22.0,2002,31,30,2576,28.6,0,1,1,3,0,19,3,17,32,24,95.4,"إرهاق مرتفع جداً",0.03
+"Edmond Tapsoba","Leverkusen","de Bundesliga","DF",26.0,1999,29,29,2575,28.6,5,3,8,7,0,29,10,31,2,15,95.4,"إرهاق مرتفع جداً",0.28
+"Eric Martel","Köln","de Bundesliga","MF,DF",23.0,2002,31,30,2559,28.4,2,2,4,12,1,23,4,42,51,32,94.8,"إرهاق مرتفع جداً",0.14
+"David Raum","RB Leipzig","de Bundesliga","DF",27.0,1998,30,29,2553,28.4,3,7,10,6,0,24,8,29,17,35,94.6,"إرهاق مرتفع جداً",0.35
+"Marco Friedl","Werder Bremen","de Bundesliga","DF",27.0,1998,30,29,2546,28.3,1,0,1,9,1,8,2,17,16,24,94.3,"إرهاق مرتفع جداً",0.04
+"Robert Andrich","Leverkusen","de Bundesliga","DF,MF",30.0,1994,32,29,2546,28.3,2,0,2,6,1,12,3,30,22,30,94.3,"إرهاق مرتفع جداً",0.07
+"Álex Grimaldo","Leverkusen","de Bundesliga","MF",29.0,1995,29,29,2521,28.0,8,7,15,5,0,61,21,11,29,25,93.4,"إرهاق مرتفع جداً",0.54
+"Nico Schlotterbeck","Dortmund","de Bundesliga","DF",25.0,1999,28,28,2520,28.0,5,1,6,8,0,32,9,30,27,38,93.3,"إرهاق مرتفع جداً",0.21
+"Ridle Baku","RB Leipzig","de Bundesliga","DF",27.0,1998,32,28,2504,27.8,2,3,5,4,0,30,6,23,22,40,92.7,"إرهاق مرتفع جداً",0.18
+"Sebastian Sebulonsen","Köln","de Bundesliga","DF,MF",25.0,2000,31,28,2498,27.8,0,0,0,5,0,31,5,11,9,26,92.5,"إرهاق مرتفع جداً",0.00
+"Yannik Engelhardt","Gladbach","de Bundesliga","MF",24.0,2001,31,29,2487,27.6,2,2,4,7,0,21,5,41,34,23,92.1,"إرهاق مرتفع جداً",0.14
+"Konstantinos Koulierakis","Wolfsburg","de Bundesliga","DF",21.0,2003,29,27,2482,27.6,4,1,5,5,0,26,12,29,13,25,91.9,"إرهاق مرتفع جداً",0.18
+"Yan Diomandé","RB Leipzig","de Bundesliga","FW,MF",18.0,2006,33,28,2472,27.5,12,8,20,2,0,53,26,19,34,19,91.6,"إرهاق مرتفع جداً",0.73
+"Kevin Diks","Gladbach","de Bundesliga","DF",28.0,1996,30,28,2464,27.4,5,0,5,6,0,23,13,15,22,30,91.3,"إرهاق مرتفع جداً",0.18
+"Jens Stage","Werder Bremen","de Bundesliga","MF",28.0,1996,29,29,2460,27.3,10,2,12,5,0,56,21,35,30,32,91.1,"إرهاق مرتفع جداً",0.44
+"Daniel Svensson","Dortmund","de Bundesliga","MF",23.0,2002,33,27,2454,27.3,2,2,4,0,0,12,4,28,22,26,90.9,"إرهاق مرتفع جداً",0.15
+"Luis Díaz","Bayern Munich","de Bundesliga","MF",28.0,1997,32,27,2447,27.2,15,14,29,7,1,88,37,35,38,13,90.6,"إرهاق مرتفع جداً",1.07
+"Philipp Sander","Gladbach","de Bundesliga","DF,MF",27.0,1998,30,29,2445,27.2,2,0,2,4,0,25,8,28,14,42,90.6,"إرهاق مرتفع جداً",0.07
+"Luka Vušković","Hamburger SV","de Bundesliga","DF",18.0,2007,28,27,2442,27.1,6,0,6,6,0,32,10,29,32,17,90.4,"إرهاق مرتفع جداً",0.22
+"Miro Muheim","Hamburger SV","de Bundesliga","MF,DF",27.0,1998,29,27,2435,27.1,0,4,4,7,1,24,7,39,50,35,90.2,"إرهاق مرتفع جداً",0.15
+"Albian Hajdari","Hoffenheim","de Bundesliga","DF",22.0,2003,30,28,2434,27.0,1,2,3,10,0,19,4,43,23,38,90.1,"إرهاق مرتفع جداً",0.11
+"Wouter Burger","Hoffenheim","de Bundesliga","MF",24.0,2001,30,30,2430,27.0,4,5,9,7,1,36,13,57,12,42,90.0,"إرهاق مرتفع جداً",0.33
+"Yukinari Sugawara","Werder Bremen","de Bundesliga","DF,MF",25.0,2000,31,29,2428,27.0,0,6,6,2,1,30,11,22,11,22,89.9,"إرهاق مرتفع جداً",0.22
+"Han-Noah Massengo","Augsburg","de Bundesliga","MF",24.0,2001,33,29,2427,27.0,2,1,3,5,0,20,6,25,23,18,89.9,"إرهاق مرتفع جداً",0.11
+"Christian Eriksen","Wolfsburg","de Bundesliga","MF",33.0,1992,31,27,2410,26.8,3,9,12,4,0,38,14,13,5,20,89.3,"إرهاق مرتفع جداً",0.45
+"Haris Tabakovic","Gladbach","de Bundesliga","FW",31.0,1994,32,28,2382,26.5,13,3,16,5,0,67,27,48,20,6,88.2,"إرهاق مرتفع جداً",0.60
+"Harry Kane","Bayern Munich","de Bundesliga","FW,MF",32.0,1993,31,25,2377,26.4,36,5,41,1,0,119,67,25,32,13,88.0,"إرهاق مرتفع جداً",1.55
+"Jamie Leweling","Stuttgart","de Bundesliga","MF",24.0,2001,32,26,2367,26.3,7,9,16,4,0,49,18,17,43,12,87.7,"إرهاق مرتفع جداً",0.61
+"Ritsu Doan","Eintracht Frankfurt","de Bundesliga","MF",27.0,1998,31,28,2364,26.3,5,5,10,5,0,41,15,26,35,23,87.6,"إرهاق مرتفع جداً",0.38
+"Fabian Rieder","Augsburg","de Bundesliga","MF",23.0,2002,32,28,2343,26.0,6,3,9,4,0,38,13,45,38,20,86.8,"إرهاق مرتفع جداً",0.35
+"Dominik Kohr","Mainz 05","de Bundesliga","DF",31.0,1994,29,28,2338,26.0,2,0,2,11,2,15,4,40,43,35,86.6,"إرهاق مرتفع جداً",0.08
+"Serhou Guirassy","Dortmund","de Bundesliga","FW",29.0,1996,33,27,2337,26.0,17,1,18,3,0,84,40,37,36,1,86.6,"إرهاق مرتفع جداً",0.69
+"Fisnik Asllani","Hoffenheim","de Bundesliga","FW,MF",22.0,2002,33,31,2335,25.9,10,7,17,2,0,73,28,26,37,7,86.5,"إرهاق مرتفع جداً",0.66
+"Ransford Königsdörffer","Hamburger SV","de Bundesliga","FW,MF",23.0,2001,33,29,2329,25.9,5,1,6,2,0,65,22,25,32,4,86.3,"إرهاق مرتفع جداً",0.23
+"Jonas Föhrenbach","Heidenheim","de Bundesliga","DF,MF",29.0,1996,27,25,2325,25.8,1,1,2,3,0,6,1,16,18,27,86.1,"إرهاق مرتفع جداً",0.08
+"Michael Olise","Bayern Munich","de Bundesliga","MF",23.0,2001,32,23,2316,25.7,15,19,34,8,0,102,50,32,58,11,85.8,"إرهاق مرتفع جداً",1.32
+"Bernardo","Hoffenheim","de Bundesliga","DF",30.0,1995,29,26,2312,25.7,0,0,0,9,0,10,0,42,11,42,85.6,"إرهاق مرتفع جداً",0.00
+"Eric Smith","St Pauli","de Bundesliga","DF,MF",28.0,1997,27,26,2311,25.7,2,2,4,4,1,12,5,15,29,23,85.6,"إرهاق مرتفع جداً",0.16
+"Bazoumana Touré","Hoffenheim","de Bundesliga","MF,FW",19.0,2006,30,29,2308,25.6,5,9,14,2,0,48,13,44,29,22,85.5,"إرهاق مرتفع جداً",0.55
+"Jarell Quansah","Leverkusen","de Bundesliga","DF",22.0,2003,28,25,2299,25.5,4,0,4,9,0,18,8,18,21,22,85.1,"إرهاق مرتفع جداً",0.16
+"Julian Chabot","Stuttgart","de Bundesliga","DF",27.0,1998,27,26,2294,25.5,0,0,0,3,0,18,7,35,40,20,85.0,"إرهاق مرتفع جداً",0.00
+"Joshua Kimmich","Bayern Munich","de Bundesliga","MF",30.0,1995,29,24,2280,25.3,2,8,10,4,0,28,10,8,21,26,84.4,"إرهاق مرتفع جداً",0.39
+"Kristoffer Lund","Köln","de Bundesliga","DF,MF",23.0,2002,33,26,2276,25.3,0,2,2,2,0,20,3,13,40,26,84.3,"إرهاق مرتفع جداً",0.08
+"Julian Ryerson","Dortmund","de Bundesliga","MF",27.0,1997,31,26,2266,25.2,0,15,15,8,0,12,1,26,21,21,83.9,"إرهاق مرتفع جداً",0.60
+"Niklas Dorsch","Heidenheim","de Bundesliga","MF",27.0,1998,32,27,2258,25.1,0,1,1,2,0,14,3,30,27,31,83.6,"إرهاق مرتفع جداً",0.04
+"Andrej Ilic","Union Berlin","de Bundesliga","FW",25.0,2000,32,24,2257,25.1,5,10,15,5,0,71,26,38,32,3,83.6,"إرهاق مرتفع جداً",0.60
+"Jan Schöppner","Heidenheim","de Bundesliga","MF",26.0,1999,31,29,2252,25.0,3,3,6,5,0,25,7,21,17,17,83.4,"إرهاق مرتفع جداً",0.24
+"Robin Hranáč","Hoffenheim","de Bundesliga","DF",25.0,2000,29,26,2251,25.0,1,0,1,5,0,8,3,26,10,15,83.4,"إرهاق مرتفع جداً",0.04
+"Deniz Undav","Stuttgart","de Bundesliga","FW,MF",29.0,1996,29,25,2241,24.9,19,7,26,5,0,124,46,32,23,14,83.0,"إرهاق مرتفع جداً",1.04
+"Andrej Kramarić","Hoffenheim","de Bundesliga","MF,FW",34.0,1991,34,26,2207,24.5,14,6,20,2,0,64,33,5,14,5,81.7,"إرهاق مرتفع جداً",0.82
+"Fabio Vieira","Hamburger SV","de Bundesliga","MF,FW",25.0,2000,29,25,2206,24.5,7,5,12,4,2,59,19,18,44,9,81.7,"إرهاق مرتفع جداً",0.49
+"Rômulo","RB Leipzig","de Bundesliga","FW",23.0,2002,30,27,2188,24.3,9,4,13,3,0,63,27,20,20,19,81.0,"إرهاق مرتفع جداً",0.53
+"Philipp Treu","Freiburg","de Bundesliga","DF,MF",24.0,2000,28,24,2186,24.3,1,2,3,2,0,17,5,20,37,27,81.0,"إرهاق مرتفع جداً",0.12
+"Maximilian Mittelstädt","Stuttgart","de Bundesliga","DF,MF",28.0,1997,32,24,2186,24.3,6,4,10,4,0,31,16,11,26,42,81.0,"إرهاق مرتفع جداً",0.41
+"Lee Jae-sung","Mainz 05","de Bundesliga","MF,FW",32.0,1992,28,26,2185,24.3,4,2,6,4,0,30,9,19,22,21,80.9,"إرهاق مرتفع جداً",0.25
+"Felix Nmecha","Dortmund","de Bundesliga","MF",24.0,2000,29,25,2176,24.2,2,3,5,0,0,33,7,28,22,23,80.6,"إرهاق مرتفع جداً",0.21
+"Castello Lukeba","RB Leipzig","de Bundesliga","DF",22.0,2002,26,24,2176,24.2,1,0,1,3,0,8,2,11,12,14,80.6,"إرهاق مرتفع جداً",0.04
+"Arijon Ibrahimović","Heidenheim","de Bundesliga","MF,FW",19.0,2005,32,25,2169,24.1,2,4,6,2,0,47,19,13,27,18,80.3,"إرهاق مرتفع جداً",0.25
+"Arthur Theate","Eintracht Frankfurt","de Bundesliga","DF",25.0,2000,24,24,2141,23.8,1,0,1,8,0,15,7,15,13,21,79.3,"إرهاق مرتفع جداً",0.04
+"Mark Flekken","Leverkusen","de Bundesliga","GK",32.0,1993,24,24,2129,23.7,0,0,0,2,0,0,0,0,3,0,78.9,"إرهاق مرتفع جداً",0.00
+"Abdoul Coulibaly","Werder Bremen","de Bundesliga","DF",18.0,2007,27,24,2120,23.6,1,0,1,5,1,6,1,18,9,14,78.5,"إرهاق مرتفع جداً",0.04
+"Alexis Claude-Maurice","Augsburg","de Bundesliga","MF,FW",27.0,1998,29,25,2097,23.3,5,4,9,3,0,71,26,23,42,26,77.7,"إرهاق مرتفع جداً",0.39
+"Nadiem Amiri","Mainz 05","de Bundesliga","MF",28.0,1996,26,24,2083,23.1,12,2,14,6,0,54,22,20,26,18,77.1,"إرهاق مرتفع جداً",0.60
+"Johan Manzambi","Freiburg","de Bundesliga","MF",19.0,2005,27,26,2077,23.1,5,4,9,4,2,51,13,22,78,14,76.9,"إرهاق مرتفع جداً",0.39
+"Paul Nebel","Mainz 05","de Bundesliga","MF",22.0,2002,30,24,2073,23.0,5,2,7,2,2,32,8,29,20,30,76.8,"إرهاق مرتفع جداً",0.30
+"Phillipp Mwene","Mainz 05","de Bundesliga","MF",31.0,1994,29,24,2069,23.0,1,2,3,4,0,10,2,22,32,20,76.6,"إرهاق مرتفع جداً",0.13
+"Danel Sinani","St Pauli","de Bundesliga","MF,FW",28.0,1997,30,23,2069,23.0,5,3,8,4,0,49,18,39,27,16,76.6,"إرهاق مرتفع جداً",0.35
+"Lucas Höler","Freiburg","de Bundesliga","FW,MF",31.0,1994,33,25,2037,22.6,3,1,4,4,0,33,15,30,30,12,75.4,"إرهاق مرتفع جداً",0.18
+"Keven Schlotterbeck","Augsburg","de Bundesliga","DF",28.0,1997,24,22,2031,22.6,0,1,1,7,1,12,3,25,20,25,75.2,"إرهاق مرتفع جداً",0.04
+"Antonio Nusa","RB Leipzig","de Bundesliga","FW,MF",20.0,2005,31,24,2027,22.5,4,3,7,0,0,61,20,9,64,14,75.1,"إرهاق مرتفع جداً",0.31
+"Maximilian Beier","Dortmund","de Bundesliga","MF,FW",22.0,2002,32,24,2026,22.5,9,6,15,3,0,50,20,31,24,16,75.0,"إرهاق مرتفع جداً",0.67
+"Ramon Hendriks","Stuttgart","de Bundesliga","DF",24.0,2001,31,22,2025,22.5,0,3,3,3,0,5,0,17,25,15,75.0,"إرهاق مرتفع جداً",0.13
+"Mathias Pereira Lage","St Pauli","de Bundesliga","MF,FW",28.0,1996,28,25,2018,22.4,2,2,4,3,0,43,15,32,32,23,74.7,"إرهاق مرتفع جداً",0.18
+"Jonathan Tah","Bayern Munich","de Bundesliga","DF",29.0,1996,28,23,2018,22.4,2,1,3,7,0,8,5,26,6,18,74.7,"إرهاق مرتفع جداً",0.13
+"Péter Gulácsi","RB Leipzig","de Bundesliga","GK",35.0,1990,23,23,2008,22.3,0,0,0,1,0,0,0,0,0,0,74.4,"إرهاق مرتفع جداً",0.00
+"Marco Grüll","Werder Bremen","de Bundesliga","MF,FW",27.0,1998,33,23,2006,22.3,3,1,4,5,0,43,13,33,28,20,74.3,"إرهاق مرتفع جداً",0.18
+"Nicolás Capaldo","Hamburger SV","de Bundesliga","DF,MF",26.0,1998,26,24,2001,22.2,1,3,4,10,0,22,6,31,46,46,74.1,"إرهاق مرتفع جداً",0.18
+"Konrad Laimer","Bayern Munich","de Bundesliga","DF",28.0,1997,29,22,1994,22.2,3,9,12,9,0,17,8,29,9,25,73.9,"جهد متوسط",0.54
+"Patrik Schick","Leverkusen","de Bundesliga","FW",29.0,1996,28,23,1988,22.1,16,3,19,2,0,72,34,22,20,4,73.6,"جهد متوسط",0.86
+"Franck Honorat","Gladbach","de Bundesliga","MF,FW",28.0,1996,28,24,1977,22.0,2,6,8,0,0,17,5,12,6,13,73.2,"جهد متوسط",0.36
+"Michael Zetterer","Eintracht Frankfurt","de Bundesliga","GK",30.0,1995,22,21,1976,22.0,0,0,0,1,0,0,0,0,6,1,73.2,"جهد متوسط",0.00
+"Diogo Leite","Union Berlin","de Bundesliga","DF",26.0,1999,23,23,1963,21.8,0,0,0,4,0,10,1,26,26,15,72.7,"جهد متوسط",0.00
+"Jordan Torunarigha","Hamburger SV","de Bundesliga","DF",27.0,1997,24,21,1962,21.8,0,0,0,3,0,5,1,19,13,22,72.7,"جهد متوسط",0.00
+"Aljoscha Kemlein","Union Berlin","de Bundesliga","MF",20.0,2004,30,23,1959,21.8,0,2,2,4,0,17,2,22,11,25,72.6,"جهد متوسط",0.09
+"Said El Mala","Köln","de Bundesliga","FW,MF",18.0,2006,34,20,1956,21.7,13,4,17,4,0,74,30,15,23,14,72.4,"جهد متوسط",0.78
+"Justin Njinmah","Werder Bremen","de Bundesliga","FW,MF",24.0,2000,33,22,1947,21.6,5,0,5,2,0,62,23,8,25,14,72.1,"جهد متوسط",0.23
+"Leon Goretzka","Bayern Munich","de Bundesliga","MF",30.0,1995,31,25,1947,21.6,5,3,8,4,0,35,11,15,16,19,72.1,"جهد متوسط",0.37
+"Tim Lemperle","Hoffenheim","de Bundesliga","FW",23.0,2002,29,24,1944,21.6,8,2,10,3,1,53,21,60,16,16,72.0,"جهد متوسط",0.46
+"James Sands","St Pauli","de Bundesliga","MF",25.0,2000,24,23,1934,21.5,1,0,1,4,0,16,4,26,38,23,71.6,"جهد متوسط",0.05
+"Karol Mets","St Pauli","de Bundesliga","DF",32.0,1993,23,22,1932,21.5,1,0,1,3,0,7,1,13,11,22,71.6,"جهد متوسط",0.05
+"Mohamed Amoura","Wolfsburg","de Bundesliga","FW,MF",25.0,2000,30,23,1919,21.3,8,3,11,2,0,60,19,21,11,22,71.1,"جهد متوسط",0.52
+"Marnon Busch","Heidenheim","de Bundesliga","DF,MF",30.0,1994,29,20,1915,21.3,1,5,6,4,0,12,3,18,8,24,70.9,"جهد متوسط",0.28
+"Derrick Köhn","Union Berlin","de Bundesliga","MF,DF",26.0,1999,29,21,1899,21.1,1,2,3,5,1,28,5,33,16,22,70.3,"جهد متوسط",0.14
+"Ilyas Ansah","Union Berlin","de Bundesliga","MF,FW",20.0,2004,33,23,1892,21.0,5,1,6,1,0,33,12,21,43,9,70.1,"جهد متوسط",0.29
+"Daniel Batz","Mainz 05","de Bundesliga","GK",34.0,1991,21,21,1890,21.0,0,0,0,2,0,0,0,0,1,0,70.0,"جهد متوسط",0.00
+"Dimitris Giannoulis","Augsburg","de Bundesliga","MF",29.0,1995,27,25,1888,21.0,2,5,7,8,0,10,6,16,20,20,69.9,"جهد متوسط",0.33
+"Atakan Karazor","Stuttgart","de Bundesliga","MF",28.0,1996,28,22,1884,20.9,0,1,1,5,1,7,2,20,34,27,69.8,"جهد متوسط",0.05
+"Christopher Trimmel","Union Berlin","de Bundesliga","MF,DF",38.0,1987,29,22,1861,20.7,0,3,3,8,0,5,1,27,9,24,68.9,"جهد متوسط",0.15
+"Manuel Neuer","Bayern Munich","de Bundesliga","GK",39.0,1986,22,22,1859,20.7,0,0,0,0,0,0,0,0,2,0,68.9,"جهد متوسط",0.00
+"Maximilian Arnold","Wolfsburg","de Bundesliga","MF",31.0,1994,25,20,1859,20.7,1,4,5,5,0,13,5,17,26,15,68.9,"جهد متوسط",0.24
+"Josip Stanišić","Bayern Munich","de Bundesliga","DF",25.0,2000,26,19,1857,20.6,2,3,5,1,0,7,4,8,11,21,68.8,"جهد متوسط",0.24
+"Ibrahim Maza","Leverkusen","de Bundesliga","MF",19.0,2005,28,20,1849,20.5,3,4,7,2,0,54,17,19,36,24,68.5,"جهد متوسط",0.34
+"Cameron Puertas","Werder Bremen","de Bundesliga","MF",26.0,1998,28,22,1846,20.5,1,2,3,6,0,37,8,37,22,37,68.4,"جهد متوسط",0.15
+"Xaver Schlager","RB Leipzig","de Bundesliga","MF",27.0,1997,26,21,1837,20.4,3,1,4,6,0,21,7,25,16,25,68.0,"جهد متوسط",0.20
+"Marcel Sabitzer","Dortmund","de Bundesliga","MF",31.0,1994,26,21,1817,20.2,1,2,3,3,0,20,4,20,17,19,67.3,"جهد متوسط",0.15
+"Cedric Zesiger","Augsburg","de Bundesliga","DF",27.0,1998,27,20,1816,20.2,0,0,0,7,0,12,3,18,16,24,67.3,"جهد متوسط",0.00
+"Hugo Larsson","Eintracht Frankfurt","de Bundesliga","MF",21.0,2004,25,21,1812,20.1,2,2,4,0,0,13,6,7,2,9,67.1,"جهد متوسط",0.20
+"Silvan Widmer","Mainz 05","de Bundesliga","MF",32.0,1993,27,22,1810,20.1,2,1,3,5,0,20,4,15,11,27,67.0,"جهد متوسط",0.15
+"Ísak Jóhannesson","Köln","de Bundesliga","MF",22.0,2003,31,21,1809,20.1,1,2,3,6,0,14,5,14,5,15,67.0,"جهد متوسط",0.15
+"Sael Kumbedi","Wolfsburg","de Bundesliga","DF,MF",20.0,2005,24,20,1804,20.0,0,5,5,2,0,5,0,21,18,33,66.8,"جهد متوسط",0.25
+"Dayot Upamecano","Bayern Munich","de Bundesliga","DF",26.0,1998,24,21,1794,19.9,1,1,2,4,0,8,2,15,5,26,66.4,"جهد متوسط",0.10
+"Fares Chaïbi","Eintracht Frankfurt","de Bundesliga","MF",22.0,2002,28,21,1792,19.9,2,9,11,2,0,35,9,14,21,21,66.4,"جهد متوسط",0.55
+"Cenk Özkacar","Köln","de Bundesliga","DF",24.0,2000,25,20,1791,19.9,0,0,0,2,0,11,4,11,5,26,66.3,"جهد متوسط",0.00
+"Moritz Jenz","Wolfsburg","de Bundesliga","DF",26.0,1999,22,20,1787,19.9,1,0,1,8,1,5,1,31,7,22,66.2,"جهد متوسط",0.05
+"Jobe Bellingham","Dortmund","de Bundesliga","MF",19.0,2005,32,20,1786,19.8,0,1,1,2,1,19,6,15,20,23,66.1,"جهد متوسط",0.05
+"Tom Krauß","Köln","de Bundesliga","MF,DF",24.0,2001,26,19,1780,19.8,0,2,2,4,0,9,2,23,22,43,65.9,"جهد متوسط",0.10
+"Vinicius Souza","Wolfsburg","de Bundesliga","MF",26.0,1999,24,22,1764,19.6,0,0,0,5,0,9,2,40,23,32,65.3,"جهد متوسط",0.00
+"Grischa Prömel","Hoffenheim","de Bundesliga","MF",30.0,1995,33,16,1758,19.5,7,2,9,5,0,43,14,23,28,16,65.1,"جهد متوسط",0.46
+"Ozan Kabak","Hoffenheim","de Bundesliga","DF",25.0,2000,25,18,1751,19.5,4,0,4,5,0,35,12,26,8,17,64.9,"جهد متوسط",0.21
+"Anton Kade","Augsburg","de Bundesliga","MF,FW",21.0,2004,28,18,1743,19.4,6,0,6,3,0,48,21,20,18,14,64.6,"جهد متوسط",0.31
+"Noahkai Banks","Augsburg","de Bundesliga","DF",18.0,2006,23,20,1725,19.2,1,1,2,8,0,9,5,29,18,29,63.9,"جهد متوسط",0.10
+"Ragnar Ache","Köln","de Bundesliga","FW",27.0,1998,29,18,1718,19.1,7,4,11,3,0,52,22,18,29,8,63.6,"جهد متوسط",0.58
+"Albert Sambi Lokonga","Hamburger SV","de Bundesliga","MF",25.0,1999,26,20,1710,19.0,5,0,5,3,0,19,11,20,27,13,63.3,"جهد متوسط",0.26
+"Vincenzo Grifo","Freiburg","de Bundesliga","MF",32.0,1993,33,21,1710,19.0,7,4,11,0,0,30,12,10,12,5,63.3,"جهد متوسط",0.58
+"Jan-Niklas Beste","Freiburg","de Bundesliga","MF",26.0,1999,28,20,1704,18.9,2,2,4,5,0,24,14,17,36,24,63.1,"جهد متوسط",0.21
+"Chris Führich","Stuttgart","de Bundesliga","MF",27.0,1998,33,20,1698,18.9,7,7,14,2,0,45,23,6,7,9,62.9,"جهد متوسط",0.74
+"Aurele Amenda","Eintracht Frankfurt","de Bundesliga","DF",22.0,2003,24,18,1678,18.6,0,0,0,5,0,10,2,22,13,12,62.1,"جهد متوسط",0.00
+"Malik Tillman","Leverkusen","de Bundesliga","MF",23.0,2002,29,18,1674,18.6,6,1,7,2,0,34,13,19,29,30,62.0,"جهد متوسط",0.38
+"Oliver Burke","Union Berlin","de Bundesliga","FW,MF",28.0,1997,29,21,1664,18.5,6,2,8,4,0,34,15,10,8,7,61.6,"جهد متوسط",0.43
+"Kristijan Jakić","Augsburg","de Bundesliga","MF,DF",28.0,1997,26,18,1653,18.4,2,1,3,5,0,18,6,17,17,25,61.2,"جهد متوسط",0.16
+"Loïc Bade","Leverkusen","de Bundesliga","DF",25.0,2000,23,19,1653,18.4,0,0,0,4,0,12,4,11,4,19,61.2,"جهد متوسط",0.00
+"Marvin Pieringer","Heidenheim","de Bundesliga","FW,MF",25.0,1999,27,20,1650,18.3,4,1,5,2,0,32,8,37,27,14,61.1,"جهد متوسط",0.27
+"Janik Haberer","Union Berlin","de Bundesliga","MF",31.0,1994,28,20,1646,18.3,0,1,1,8,0,11,1,24,21,19,61.0,"جهد متوسط",0.05
+"Yuito Suzuki","Freiburg","de Bundesliga","MF",23.0,2001,25,18,1632,18.1,4,2,6,3,0,38,14,20,10,12,60.4,"جهد متوسط",0.33
+"Bilal El Khannouss","Stuttgart","de Bundesliga","MF,FW",21.0,2004,25,19,1630,18.1,4,5,9,6,0,42,15,19,9,21,60.4,"جهد متوسط",0.50
+"Jackson Irvine","St Pauli","de Bundesliga","MF",32.0,1993,24,18,1624,18.0,0,1,1,2,1,19,4,20,12,17,60.1,"جهد متوسط",0.06
+"Patrick Wimmer","Wolfsburg","de Bundesliga","MF",24.0,2001,25,21,1621,18.0,4,3,7,4,0,24,8,28,33,20,60.0,"جهد متوسط",0.39
+"Louis Oppie","St Pauli","de Bundesliga","MF",23.0,2002,23,17,1620,18.0,1,0,1,0,0,15,4,15,15,19,60.0,"جهد متوسط",0.06
+"Phillip Tietz","Mainz 05","de Bundesliga","FW",28.0,1997,19,19,1610,17.9,5,2,7,2,0,46,21,32,21,4,59.6,"جهد متوسط",0.39
+"Julian Brandt","Dortmund","de Bundesliga","MF,FW",29.0,1996,29,17,1606,17.8,7,4,11,0,0,38,18,8,5,8,59.5,"جهد متوسط",0.62
+"Warmed Omari","Hamburger SV","de Bundesliga","DF",25.0,2000,20,17,1605,17.8,0,1,1,0,0,3,1,16,11,19,59.4,"جهد متوسط",0.06
+"Kim Min-jae","Bayern Munich","de Bundesliga","DF",28.0,1996,25,19,1602,17.8,1,1,2,1,0,5,3,9,3,19,59.3,"جهد متوسط",0.11
+"Marius Bülter","Köln","de Bundesliga","FW,MF",32.0,1993,32,18,1597,17.7,5,4,9,3,0,42,17,17,25,5,59.1,"جهد متوسط",0.51
+"Lukas Kübler","Freiburg","de Bundesliga","DF",32.0,1992,23,19,1587,17.6,2,2,4,3,0,19,5,20,11,25,58.8,"جهد متوسط",0.23
+"Josha Vagnoman","Stuttgart","de Bundesliga","DF,MF",24.0,2000,27,18,1587,17.6,1,3,4,3,0,19,11,17,16,19,58.8,"جهد متوسط",0.23
+"Castrop Jens","Gladbach","de Bundesliga","MF",22.0,2003,26,20,1584,17.6,3,1,4,2,2,30,12,31,26,27,58.7,"جهد متوسط",0.23
+"Igor Matanovic","Freiburg","de Bundesliga","FW",22.0,2003,31,14,1571,17.5,11,2,13,0,0,51,19,42,22,11,58.2,"جهد متوسط",0.74
+"Christian Günter","Freiburg","de Bundesliga","DF",32.0,1993,24,18,1547,17.2,0,3,3,3,0,9,0,10,6,12,57.3,"جهد متوسط",0.17
+"Jan Thielmann","Köln","de Bundesliga","MF,FW",23.0,2002,26,20,1540,17.1,3,1,4,4,0,27,10,11,23,12,57.0,"جهد متوسط",0.23
+"Rasmus Kristensen","Eintracht Frankfurt","de Bundesliga","DF,MF",28.0,1997,22,19,1538,17.1,2,0,2,6,1,15,6,24,10,33,57.0,"جهد متوسط",0.12
+"Ramy Bensebaini","Dortmund","de Bundesliga","DF",30.0,1995,21,15,1530,17.0,5,2,7,6,0,17,7,31,16,14,56.7,"جهد متوسط",0.41
+"Finn Jeltsch","Stuttgart","de Bundesliga","DF",19.0,2006,23,17,1511,16.8,0,1,1,3,0,3,0,13,16,14,56.0,"جهد متوسط",0.06
+"Amos Pieper","Werder Bremen","de Bundesliga","DF",27.0,1998,19,19,1502,16.7,0,0,0,4,0,8,2,10,14,24,55.6,"جهد متوسط",0.00
+"Omar Traoré","Heidenheim","de Bundesliga","DF,MF",27.0,1998,26,16,1501,16.7,0,2,2,2,0,10,2,22,19,11,55.6,"جهد متوسط",0.12
+"Nnamdi Collins","Eintracht Frankfurt","de Bundesliga","DF",21.0,2004,23,16,1500,16.7,1,2,3,4,0,4,1,22,19,38,55.6,"جهد متوسط",0.18
+"Ermedin Demirović","Stuttgart","de Bundesliga","FW",27.0,1998,25,17,1497,16.6,12,3,15,5,0,41,22,37,26,10,55.4,"جهد متوسط",0.90
+"Chrislain Matsima","Augsburg","de Bundesliga","DF",23.0,2002,18,17,1489,16.5,1,1,2,5,0,7,1,10,4,11,55.1,"جهد متوسط",0.12
+"Ernest Poku","Leverkusen","de Bundesliga","MF",21.0,2004,29,16,1482,16.5,5,5,10,0,0,27,9,4,17,9,54.9,"جهد متوسط",0.61
+"Mert Kömür","Augsburg","de Bundesliga","MF,FW",20.0,2005,28,17,1464,16.3,2,4,6,1,0,41,16,26,18,13,54.2,"جهد متوسط",0.37
+"Aleksandar Pavlovic","Bayern Munich","de Bundesliga","MF",21.0,2004,24,16,1462,16.2,3,1,4,2,0,10,5,19,10,15,54.1,"جهد متوسط",0.25
+"Dženan Pejčinović","Wolfsburg","de Bundesliga","FW",20.0,2005,30,16,1460,16.2,8,0,8,1,0,51,23,22,7,9,54.1,"جهد متوسط",0.49
+"Aaron Zehnter","Wolfsburg","de Bundesliga","DF,MF",20.0,2004,20,17,1456,16.2,2,0,2,0,0,11,5,2,0,10,53.9,"جهد متوسط",0.12
+"Ellyes Skhiri","Eintracht Frankfurt","de Bundesliga","MF,DF",30.0,1995,25,16,1444,16.0,0,0,0,3,1,8,0,11,13,8,53.5,"جهد متوسط",0.00
+"Benedikt Gimber","Heidenheim","de Bundesliga","DF",28.0,1997,21,18,1436,16.0,0,0,0,6,0,4,1,27,31,21,53.2,"جهد متوسط",0.00
+"András Schäfer","Union Berlin","de Bundesliga","MF",26.0,1999,28,16,1421,15.8,2,1,3,2,1,27,10,32,22,22,52.6,"جهد متوسط",0.19
+"Arnaud Kalimuendo","Eintracht Frankfurt","de Bundesliga","FW,MF",23.0,2002,19,17,1417,15.7,6,1,7,4,0,30,16,9,18,4,52.5,"جهد متوسط",0.44
+"Stefan Posch","Mainz 05","de Bundesliga","DF",28.0,1997,16,16,1395,15.5,0,0,0,4,0,11,3,8,12,22,51.7,"جهد متوسط",0.00
+"Julian Niehues","Heidenheim","de Bundesliga","MF",24.0,2001,24,17,1383,15.4,3,0,3,1,0,18,5,10,9,10,51.2,"جهد متوسط",0.20
+"William Mikelbrencis","Hamburger SV","de Bundesliga","MF,DF",21.0,2004,26,15,1372,15.2,0,4,4,3,0,12,6,18,5,22,50.8,"جهد متوسط",0.26
+"Lovro Majer","Wolfsburg","de Bundesliga","MF",27.0,1998,28,16,1371,15.2,2,3,5,5,0,27,6,30,22,18,50.8,"جهد متوسط",0.33
+"Adam Daghim","Wolfsburg","de Bundesliga","MF,FW",19.0,2005,27,12,1364,15.2,2,3,5,3,0,27,9,18,23,20,50.5,"جهد متوسط",0.33
+"Martijn Kaars","St Pauli","de Bundesliga","FW",26.0,1999,29,14,1348,15.0,3,1,4,2,0,23,10,8,6,5,49.9,"جهد متوسط",0.27
+"Jonathan Burkardt","Eintracht Frankfurt","de Bundesliga","FW",25.0,2000,22,15,1336,14.8,13,1,14,1,0,41,21,12,15,4,49.5,"جهد متوسط",0.94
+"Jean Mattéo Bahoya","Eintracht Frankfurt","de Bundesliga","MF,FW",20.0,2005,27,15,1331,14.8,3,4,7,2,0,29,9,13,22,14,49.3,"جهد متوسط",0.47
+"Ansgar Knauff","Eintracht Frankfurt","de Bundesliga","MF,FW",23.0,2002,28,12,1326,14.7,4,1,5,3,0,34,14,26,12,10,49.1,"جهد متوسط",0.34
+"Kevin Stöger","Gladbach","de Bundesliga","MF",31.0,1993,29,15,1324,14.7,1,1,2,3,0,23,7,23,29,20,49.0,"جهد متوسط",0.14
+"Hannes Behrens","Heidenheim","de Bundesliga","DF,MF",20.0,2005,16,15,1318,14.6,1,2,3,0,0,9,4,5,27,18,48.8,"جهد متوسط",0.20
+"Chema","Stuttgart","de Bundesliga","MF",20.0,2005,25,14,1310,14.6,3,0,3,5,0,15,6,20,8,16,48.5,"جهد متوسط",0.21
+"Alexander Prass","Hoffenheim","de Bundesliga","MF",24.0,2001,32,12,1308,14.5,3,2,5,4,0,18,11,26,21,22,48.4,"جهد متوسط",0.34
+"Lukas Ullrich","Gladbach","de Bundesliga","DF,MF",21.0,2004,23,14,1305,14.5,0,0,0,2,0,10,2,17,11,17,48.3,"جهد متوسط",0.00
+"Tom Bischof","Bayern Munich","de Bundesliga","DF,MF",20.0,2005,26,14,1302,14.5,3,3,6,2,0,30,9,15,9,18,48.2,"جهد متوسط",0.41
+"Philipp Lienhart","Freiburg","de Bundesliga","DF",29.0,1996,20,14,1302,14.5,1,0,1,4,1,8,2,7,8,13,48.2,"جهد متوسط",0.07
+"Derry Scherhant","Freiburg","de Bundesliga","MF",22.0,2002,31,12,1301,14.5,5,1,6,2,0,36,13,19,36,9,48.2,"جهد متوسط",0.42
+"Adam Dźwigała","St Pauli","de Bundesliga","DF",29.0,1995,19,14,1288,14.3,1,1,2,5,0,4,2,20,6,27,47.7,"جهد متوسط",0.14
+"Rayan Philippe","Hamburger SV","de Bundesliga","FW,MF",24.0,2000,28,13,1285,14.3,5,0,5,2,0,39,16,24,9,13,47.6,"جهد متوسط",0.35
+"Lennart Karl","Bayern Munich","de Bundesliga","MF",17.0,2008,26,16,1281,14.2,5,5,10,1,0,42,21,5,11,15,47.4,"جهد متوسط",0.70
+"Tomoya Ando","St Pauli","de Bundesliga","DF",26.0,1999,15,14,1260,14.0,0,1,1,3,0,8,2,12,12,23,46.7,"جهد متوسط",0.07
+"Nikolas Nartey","Stuttgart","de Bundesliga","MF",25.0,2000,28,14,1256,14.0,4,3,7,2,0,22,12,18,23,12,46.5,"جهد متوسط",0.50
+"Olivier Deman","Werder Bremen","de Bundesliga","DF,MF",25.0,2000,16,14,1254,13.9,1,2,3,3,0,10,3,19,12,26,46.4,"جهد متوسط",0.22
+"Jeanuël Belocian","Wolfsburg","de Bundesliga","DF",20.0,2005,14,14,1254,13.9,0,1,1,3,0,3,0,18,8,17,46.4,"جهد متوسط",0.07
+"Daniel Elfadli","Hamburger SV","de Bundesliga","DF",28.0,1997,21,15,1253,13.9,0,0,0,6,1,4,1,20,15,14,46.4,"جهد متوسط",0.00
+"Mathias Honsak","Heidenheim","de Bundesliga","MF,FW",28.0,1996,27,15,1249,13.9,2,1,3,1,0,31,8,11,15,12,46.3,"جهد متوسط",0.22
+"Christian Kofane","Leverkusen","de Bundesliga","FW",19.0,2006,29,12,1239,13.8,5,4,9,3,0,46,19,30,17,7,45.9,"جهد متوسط",0.65
+"Joakim Mæhle","Wolfsburg","de Bundesliga","MF,DF",28.0,1997,16,14,1222,13.6,1,2,3,1,0,14,3,8,6,22,45.3,"جهد متوسط",0.22
+"Serge Gnabry","Bayern Munich","de Bundesliga","MF",30.0,1995,21,16,1219,13.5,8,6,14,1,0,50,17,9,6,10,45.1,"جهد متوسط",1.03
+"Jeong Woo-yeong","Union Berlin","de Bundesliga","MF,FW",25.0,1999,28,13,1197,13.3,4,1,5,0,0,22,8,13,20,7,44.3,"مشاركة قليلة",0.38
+"Karim Adeyemi","Dortmund","de Bundesliga","MF,FW",23.0,2002,28,15,1195,13.3,7,4,11,5,0,31,14,21,25,4,44.3,"مشاركة قليلة",0.83
+"Patrick Osterhage","Freiburg","de Bundesliga","MF",25.0,2000,20,13,1189,13.2,1,0,1,4,0,7,2,13,13,7,44.0,"مشاركة قليلة",0.08
+"Jordy Makengo","Freiburg","de Bundesliga","DF",23.0,2001,20,12,1178,13.1,0,1,1,1,0,0,0,10,9,10,43.6,"مشاركة قليلة",0.08
+"Ifechukwu Ogbus","Freiburg","de Bundesliga","DF",19.0,2005,18,14,1177,13.1,0,0,0,1,0,5,2,5,11,16,43.6,"مشاركة قليلة",0.00
+"Denis Vavro","Wolfsburg","de Bundesliga","DF",29.0,1996,17,13,1176,13.1,1,0,1,2,0,12,5,9,5,5,43.6,"مشاركة قليلة",0.08
+"Samuel Mbangula","Werder Bremen","de Bundesliga","MF,FW",21.0,2004,26,12,1171,13.0,3,2,5,0,0,17,8,4,23,10,43.4,"مشاركة قليلة",0.38
+"Can Uzun","Eintracht Frankfurt","de Bundesliga","MF",19.0,2005,21,15,1156,12.8,8,4,12,3,0,41,19,15,26,9,42.8,"مشاركة قليلة",0.93
+"Budu Zivzivadze","Heidenheim","de Bundesliga","FW",31.0,1994,20,14,1142,12.7,6,0,6,2,1,28,14,15,13,10,42.3,"مشاركة قليلة",0.47
+"Jean-Luc Dompé","Hamburger SV","de Bundesliga","FW,MF",29.0,1995,20,12,1138,12.6,3,0,3,0,0,25,12,2,9,5,42.1,"مشاركة قليلة",0.24
+"Arthur","Leverkusen","de Bundesliga","MF",22.0,2003,20,13,1136,12.6,1,3,4,3,0,10,2,19,10,12,42.1,"مشاركة قليلة",0.32
+"Eren Dinkçi","Heidenheim","de Bundesliga","MF,FW",23.0,2001,14,13,1131,12.6,3,1,4,3,0,25,9,9,4,13,41.9,"مشاركة قليلة",0.32
+"Rav van den Berg","Köln","de Bundesliga","DF",21.0,2004,14,12,1131,12.6,0,1,1,0,1,1,0,10,3,8,41.9,"مشاركة قليلة",0.08
+"Elvis Rexhbeçaj","Augsburg","de Bundesliga","MF",27.0,1997,26,10,1118,12.4,2,0,2,4,0,11,5,13,16,8,41.4,"مشاركة قليلة",0.16
+"Jonas Urbig","Bayern Munich","de Bundesliga","GK",21.0,2003,14,11,1111,12.3,0,0,0,0,0,0,0,0,2,0,41.1,"مشاركة قليلة",0.00
+"Manolis Saliakas","St Pauli","de Bundesliga","MF",28.0,1996,17,12,1106,12.3,1,3,4,3,0,16,3,4,7,20,41.0,"مشاركة قليلة",0.33
+"Exequiel Palacios","Leverkusen","de Bundesliga","MF",26.0,1998,18,12,1099,12.2,0,1,1,3,0,10,2,6,18,9,40.7,"مشاركة قليلة",0.08
+"Lorenz Assignon","Stuttgart","de Bundesliga","DF,MF",25.0,2000,24,12,1094,12.2,0,0,0,3,1,12,4,19,7,15,40.5,"مشاركة قليلة",0.00
+"Oscar Højlund","Eintracht Frankfurt","de Bundesliga","MF",20.0,2005,24,12,1089,12.1,1,1,2,4,1,7,3,27,5,17,40.3,"مشاركة قليلة",0.17
+"Kauã Santos","Eintracht Frankfurt","de Bundesliga","GK",22.0,2003,13,13,1084,12.0,0,0,0,0,0,0,0,0,3,1,40.1,"مشاركة قليلة",0.00
+"Tim Siersleben","Heidenheim","de Bundesliga","DF",25.0,2000,15,12,1081,12.0,0,0,0,2,0,5,3,13,13,16,40.0,"مشاركة قليلة",0.00
+"Joël Schmied","Köln","de Bundesliga","DF",26.0,1998,16,13,1078,12.0,0,0,0,5,0,5,0,16,8,9,39.9,"مشاركة قليلة",0.00
+"Shuto Machino","Gladbach","de Bundesliga","FW,MF",25.0,1999,32,9,1076,12.0,3,1,4,2,0,25,11,14,11,5,39.9,"مشاركة قليلة",0.33
+"Yannick Gerhardt","Wolfsburg","de Bundesliga","MF",31.0,1994,19,12,1068,11.9,1,0,1,1,0,11,1,20,14,8,39.6,"مشاركة قليلة",0.08
+"Andreas Hountondji","St Pauli","de Bundesliga","FW",23.0,2002,21,15,1067,11.9,4,0,4,2,0,21,13,9,6,0,39.5,"مشاركة قليلة",0.34
+"Kacper Potulski","Mainz 05","de Bundesliga","DF",17.0,2007,15,9,1065,11.8,1,0,1,3,0,14,5,17,5,15,39.4,"مشاركة قليلة",0.08
+"Maarten Vandevoordt","RB Leipzig","de Bundesliga","GK",23.0,2002,12,11,1052,11.7,0,0,0,0,0,0,0,0,1,0,39.0,"مشاركة قليلة",0.00
+"Stefan Bell","Mainz 05","de Bundesliga","DF",33.0,1991,18,13,1039,11.5,2,1,3,4,0,12,5,15,8,6,38.5,"مشاركة قليلة",0.26
+"Tom Rothe","Union Berlin","de Bundesliga","MF,DF",20.0,2004,21,10,1029,11.4,2,0,2,1,1,19,5,10,6,15,38.1,"مشاركة قليلة",0.17
+"Linton Maina","Köln","de Bundesliga","MF,FW",26.0,1999,24,9,1023,11.4,2,0,2,0,0,20,8,8,6,6,37.9,"مشاركة قليلة",0.18
+"Tiago Tomás","Stuttgart","de Bundesliga","MF,FW",23.0,2002,27,10,1020,11.3,5,3,8,4,0,35,10,12,29,8,37.8,"مشاركة قليلة",0.71
+"Marius Wolf","Augsburg","de Bundesliga","MF",30.0,1995,29,12,1019,11.3,1,1,2,4,0,14,5,10,2,10,37.7,"مشاركة قليلة",0.18
+"Jonas Hofmann","Leverkusen","de Bundesliga","MF",33.0,1992,23,11,1013,11.3,2,2,4,3,0,23,7,4,9,10,37.5,"مشاركة قليلة",0.36
+"Nicolas Jackson","Bayern Munich","de Bundesliga","FW",24.0,2001,23,12,1007,11.2,8,1,9,2,1,38,21,15,10,4,37.3,"مشاركة قليلة",0.80
+"Yan Couto","Dortmund","de Bundesliga","MF",23.0,2002,19,11,997,11.1,2,2,4,4,0,9,4,17,13,15,36.9,"مشاركة قليلة",0.36
+"Ezequiél Fernández","Leverkusen","de Bundesliga","MF",23.0,2002,20,12,984,10.9,0,1,1,4,1,11,1,14,24,17,36.4,"مشاركة قليلة",0.09
+"Lars Ritzka","St Pauli","de Bundesliga","MF,DF",27.0,1998,21,12,966,10.7,0,0,0,1,0,4,1,10,3,26,35.8,"مشاركة قليلة",0.00
+"Assan Ouedraogo","RB Leipzig","de Bundesliga","MF",19.0,2006,19,13,948,10.5,4,3,7,0,0,27,13,4,22,6,35.1,"مشاركة قليلة",0.66
+"Sheraldo Becker","Mainz 05","de Bundesliga","FW",30.0,1995,14,11,946,10.5,3,3,6,2,0,29,15,13,8,0,35.0,"مشاركة قليلة",0.57
+"Luca Netz","Gladbach","de Bundesliga","MF,DF",22.0,2003,15,10,940,10.4,0,2,2,1,0,2,0,8,2,10,34.8,"مشاركة قليلة",0.19
+"Giorgi Gocholeishvili","Hamburger SV","de Bundesliga","MF",24.0,2001,24,9,940,10.4,0,2,2,3,1,14,2,13,19,14,34.8,"مشاركة قليلة",0.19
+"Conrad Harder","RB Leipzig","de Bundesliga","FW",20.0,2005,29,8,932,10.4,3,3,6,3,0,42,13,21,18,6,34.5,"مشاركة قليلة",0.58
+"Janis Blaswich","Leverkusen","de Bundesliga","GK",34.0,1991,11,10,931,10.3,0,0,0,1,0,0,0,0,0,0,34.5,"مشاركة قليلة",0.00
+"Florian Neuhaus","Gladbach","de Bundesliga","MF,FW",28.0,1997,17,11,930,10.3,0,1,1,0,0,22,6,9,9,7,34.4,"مشاركة قليلة",0.10
+"Hiroki Ito","Bayern Munich","de Bundesliga","DF",26.0,1999,16,10,920,10.2,1,2,3,0,0,10,3,10,3,3,34.1,"مشاركة قليلة",0.29
+"Carney Chukwuemeka","Dortmund","de Bundesliga","MF,FW",21.0,2003,28,8,919,10.2,2,0,2,2,0,18,2,11,15,15,34.0,"مشاركة قليلة",0.20
+"Michael Gregoritsch","Augsburg","de Bundesliga","FW",31.0,1994,17,11,913,10.1,6,2,8,2,0,29,10,5,18,4,33.8,"مشاركة قليلة",0.79
+"Bakery Jatta","Hamburger SV","de Bundesliga","MF",27.0,1998,15,12,911,10.1,1,1,2,1,0,11,4,13,5,11,33.7,"مشاركة قليلة",0.20
+"Luca Jaquez","Stuttgart","de Bundesliga","DF",22.0,2003,14,10,898,10.0,0,1,1,1,0,4,0,4,2,7,33.3,"مشاركة قليلة",0.10
+"Mario Götze","Eintracht Frankfurt","de Bundesliga","MF",33.0,1992,21,8,886,9.8,0,0,0,1,0,5,0,9,12,8,32.8,"مشاركة قليلة",0.00
+"Robin Zentner","Mainz 05","de Bundesliga","GK",30.0,1994,10,10,876,9.7,0,0,0,2,1,0,0,2,1,0,32.4,"مشاركة قليلة",0.00
+"Benedict Hollerbach","Mainz 05","de Bundesliga","FW,MF",24.0,2001,14,13,872,9.7,1,3,4,0,0,22,6,18,12,8,32.3,"مشاركة قليلة",0.41
+"Nathan Tella","Leverkusen","de Bundesliga","MF",26.0,1999,17,10,868,9.6,1,4,5,2,0,24,8,15,19,6,32.1,"مشاركة قليلة",0.52
+"Adrian Beck","Heidenheim","de Bundesliga","MF",28.0,1997,24,9,868,9.6,1,1,2,1,0,11,4,13,14,17,32.1,"مشاركة قليلة",0.21
+"Jahmai Simpson-Pusey","Köln","de Bundesliga","DF",19.0,2005,11,10,863,9.6,0,0,0,2,1,6,3,4,4,8,32.0,"مشاركة قليلة",0.00
+"Mattias Svanberg","Wolfsburg","de Bundesliga","MF",26.0,1999,24,8,861,9.6,3,1,4,6,1,21,8,18,19,7,31.9,"مشاركة قليلة",0.42
+"Andreas Hanche-Olsen","Mainz 05","de Bundesliga","DF",28.0,1997,13,8,851,9.5,0,1,1,3,0,6,3,13,6,5,31.5,"مشاركة قليلة",0.11
+"Jeffrey Gouweleeuw","Augsburg","de Bundesliga","DF",34.0,1991,11,10,848,9.4,0,1,1,3,0,5,3,7,3,10,31.4,"مشاركة قليلة",0.11
+"Arthur Chaves","Augsburg","de Bundesliga","DF",24.0,2001,11,9,829,9.2,2,0,2,1,0,4,2,8,8,13,30.7,"مشاركة قليلة",0.22
+"Stefan Schimmer","Heidenheim","de Bundesliga","FW",31.0,1994,27,3,820,9.1,5,1,6,1,0,32,12,13,5,4,30.4,"مشاركة قليلة",0.66
+"Fábio Silva","Dortmund","de Bundesliga","FW,MF",23.0,2002,28,7,817,9.1,2,6,8,3,0,23,8,19,10,2,30.3,"مشاركة قليلة",0.88
+"Stanley N'Soki","Union Berlin","de Bundesliga","DF,MF",26.0,1999,13,10,816,9.1,1,2,3,2,0,3,1,8,8,9,30.2,"مشاركة قليلة",0.33
+"Kilian Fischer","Wolfsburg","de Bundesliga","DF",24.0,2000,11,10,800,8.9,0,0,0,0,0,2,0,10,4,13,29.6,"مشاركة قليلة",0.00
+"Raphaël Guerreiro","Bayern Munich","de Bundesliga","MF",31.0,1993,18,8,784,8.7,5,2,7,0,0,12,5,3,2,7,29.0,"مشاركة قليلة",0.80
+"Johan Bakayoko","RB Leipzig","de Bundesliga","FW,MF",22.0,2003,20,8,777,8.6,2,0,2,1,0,24,9,12,11,3,28.8,"مشاركة قليلة",0.23
+"Brajan Gruda","RB Leipzig","de Bundesliga","MF,FW",21.0,2004,13,8,753,8.4,3,3,6,1,0,22,10,10,12,8,27.9,"مشاركة قليلة",0.72
+"Felix Agu","Werder Bremen","de Bundesliga","DF,MF",25.0,1999,11,9,744,8.3,0,0,0,1,0,2,1,8,14,14,27.6,"مشاركة قليلة",0.00
+"Montrell Culbreath","Leverkusen","de Bundesliga","MF,DF",17.0,2007,12,9,736,8.2,1,0,1,0,0,8,2,5,11,16,27.3,"مشاركة قليلة",0.12
+"Denis Huseinbasic","Köln","de Bundesliga","MF",24.0,2001,15,9,726,8.1,0,0,0,1,0,6,0,8,8,9,26.9,"مشاركة قليلة",0.00
+"Mahmoud Dahoud","Eintracht Frankfurt","de Bundesliga","MF,FW",29.0,1996,15,8,716,8.0,2,3,5,0,0,17,2,16,2,8,26.5,"مشاركة قليلة",0.63
+"Niklas Stark","Werder Bremen","de Bundesliga","DF",30.0,1995,14,9,697,7.7,0,0,0,8,2,3,1,11,7,12,25.8,"مشاركة قليلة",0.00
+"Mathias Rasmussen","St Pauli","de Bundesliga","MF",27.0,1997,13,8,694,7.7,0,0,0,0,0,6,2,6,7,6,25.7,"مشاركة قليلة",0.00
+"Jamal Musiala","Bayern Munich","de Bundesliga","MF,FW",22.0,2003,15,7,683,7.6,3,4,7,1,0,30,9,5,18,5,25.3,"مشاركة قليلة",0.92
+"Isaac Schmidt","Werder Bremen","de Bundesliga","MF,DF",25.0,1999,19,6,682,7.6,1,0,1,2,0,5,2,8,3,10,25.3,"مشاركة قليلة",0.13
+"Luca Kerber","Heidenheim","de Bundesliga","MF",23.0,2002,18,8,682,7.6,2,0,2,3,0,9,3,12,6,11,25.3,"مشاركة قليلة",0.26
+"Jenson Seelt","Wolfsburg","de Bundesliga","DF",22.0,2003,9,8,681,7.6,0,0,0,0,0,2,0,5,6,9,25.2,"مشاركة قليلة",0.00
+"Luca Waldschmidt","Köln","de Bundesliga","FW,MF",29.0,1996,24,7,677,7.5,5,4,9,1,0,26,13,9,6,3,25.1,"مشاركة قليلة",1.20
+"Martin Terrier","Leverkusen","de Bundesliga","MF,FW",28.0,1997,18,7,675,7.5,4,1,5,1,0,17,6,1,13,4,25.0,"مشاركة قليلة",0.67
+"Timo Hübers","Köln","de Bundesliga","DF",29.0,1996,8,8,675,7.5,0,0,0,0,0,0,0,8,10,9,25.0,"مشاركة قليلة",0.00
+"Fabio Chiarodia","Gladbach","de Bundesliga","DF",20.0,2005,15,8,674,7.5,0,0,0,1,0,4,1,8,1,9,25.0,"مشاركة قليلة",0.00
+"Alessio Castro-Montes","Köln","de Bundesliga","MF,DF",28.0,1997,14,7,672,7.5,1,3,4,2,0,8,1,13,10,17,24.9,"مشاركة قليلة",0.54
+"Nikolas Veratschnig","Mainz 05","de Bundesliga","MF,DF",22.0,2003,21,6,660,7.3,0,1,1,3,0,4,1,12,10,13,24.4,"مشاركة قليلة",0.14
+"El Chadaille Bitshiabu","RB Leipzig","de Bundesliga","DF",20.0,2005,11,8,655,7.3,0,0,0,0,0,2,0,4,0,6,24.3,"مشاركة قليلة",0.00
+"Livan Burcu","Union Berlin","de Bundesliga","MF,FW",20.0,2004,18,6,651,7.2,1,1,2,4,0,16,3,6,14,7,24.1,"مشاركة قليلة",0.28
+"Keke Topp","Werder Bremen","de Bundesliga","FW",21.0,2004,20,7,638,7.1,1,1,2,4,0,25,3,16,7,5,23.6,"مشاركة قليلة",0.28
+"Rodrigo Ribeiro","Augsburg","de Bundesliga","FW",20.0,2005,14,6,636,7.1,2,0,2,1,0,26,7,10,3,3,23.6,"مشاركة قليلة",0.28
+"Sirlord Conteh","Heidenheim","de Bundesliga","MF,FW",29.0,1996,15,3,625,6.9,2,1,3,1,0,10,3,7,10,7,23.1,"مشاركة قليلة",0.43
+"Tim Skarke","Union Berlin","de Bundesliga","MF,FW",28.0,1996,22,4,623,6.9,1,1,2,0,0,14,5,8,9,4,23.1,"مشاركة قليلة",0.29
+"Emre Can","Dortmund","de Bundesliga","DF",31.0,1994,9,7,621,6.9,3,0,3,3,0,5,4,10,10,8,23.0,"مشاركة قليلة",0.43
+"Leonardo Bittencourt","Werder Bremen","de Bundesliga","MF",31.0,1993,17,5,615,6.8,0,1,1,5,0,7,0,7,11,10,22.8,"مشاركة قليلة",0.15
+"Pascal Groß","Dortmund","de Bundesliga","MF",34.0,1991,11,7,613,6.8,0,1,1,0,0,8,1,10,4,6,22.7,"مشاركة قليلة",0.15
+"Robert Glatzel","Hamburger SV","de Bundesliga","FW",31.0,1994,19,7,612,6.8,3,2,5,0,0,16,7,9,13,1,22.7,"مشاركة قليلة",0.74
+"Ezechiel Banzuzi","RB Leipzig","de Bundesliga","MF",20.0,2005,24,2,597,6.6,0,1,1,3,0,15,4,14,7,10,22.1,"مشاركة قليلة",0.15
+"Connor Metcalfe","St Pauli","de Bundesliga","MF,FW",25.0,1999,25,3,592,6.6,0,2,2,2,0,16,4,9,2,9,21.9,"مشاركة قليلة",0.30
+"Ayoube Amaimouni Echghouyab","Eintracht Frankfurt","de Bundesliga","MF,FW",20.0,2004,17,6,586,6.5,2,3,5,1,0,12,7,8,10,5,21.7,"مشاركة قليلة",0.77
+"Nelson Weiper","Mainz 05","de Bundesliga","FW",20.0,2005,24,3,558,6.2,0,0,0,1,0,13,6,6,3,2,20.7,"مشاركة قليلة",0.00
+"Wael Mohya","Gladbach","de Bundesliga","MF,FW",16.0,2008,15,6,552,6.1,2,1,3,1,0,11,5,4,13,7,20.4,"مشاركة قليلة",0.49
+"Hugo Bolin","Gladbach","de Bundesliga","MF,FW",22.0,2003,13,5,550,6.1,1,1,2,0,0,15,4,2,12,2,20.4,"مشاركة قليلة",0.33
+"Armindo Sieb","Mainz 05","de Bundesliga","FW",22.0,2003,22,3,548,6.1,2,0,2,1,0,18,6,16,2,4,20.3,"مشاركة قليلة",0.33
+"Mikkel Kaufmann","Heidenheim","de Bundesliga","FW",24.0,2001,16,6,537,6.0,1,1,2,2,0,11,3,14,13,2,19.9,"مشاركة قليلة",0.34
+"Damion Downs","Hamburger SV","de Bundesliga","FW",21.0,2004,12,6,536,6.0,0,0,0,0,0,7,4,8,1,2,19.9,"مشاركة قليلة",0.00
+"Anthony Jung","Freiburg","de Bundesliga","DF",33.0,1991,12,4,526,5.8,0,0,0,2,0,1,0,4,3,1,19.5,"مشاركة قليلة",0.00
+"Alphonso Davies","Bayern Munich","de Bundesliga","DF",24.0,2000,13,6,525,5.8,1,3,4,1,0,4,1,2,5,6,19.4,"مشاركة قليلة",0.69
+"Gio Reyna","Gladbach","de Bundesliga","MF",22.0,2002,19,4,520,5.8,1,0,1,1,0,7,2,5,10,6,19.3,"مشاركة قليلة",0.17
+"Anthony Caci","Mainz 05","de Bundesliga","MF",28.0,1997,10,6,519,5.8,0,0,0,3,0,6,0,9,3,10,19.2,"مشاركة قليلة",0.00
+"Julián Malatini","Werder Bremen","de Bundesliga","DF",24.0,2001,11,5,516,5.7,0,0,0,3,0,2,0,7,1,6,19.1,"مشاركة قليلة",0.00
+"Luca Reggiani","Dortmund","de Bundesliga","DF",17.0,2008,8,6,511,5.7,1,0,1,2,0,3,1,4,2,10,18.9,"مشاركة قليلة",0.18
+"Max Finkgräfe","RB Leipzig","de Bundesliga","DF",21.0,2004,13,5,504,5.6,1,1,2,2,0,4,2,3,4,12,18.7,"مشاركة قليلة",0.36
+"Elias Saad","Augsburg","de Bundesliga","MF,FW",25.0,1999,10,7,497,5.5,0,0,0,1,0,6,3,8,12,8,18.4,"مشاركة قليلة",0.00
+"Max Rosenfelder","Freiburg","de Bundesliga","DF",22.0,2003,12,5,492,5.5,0,0,0,0,0,1,0,2,5,5,18.2,"مشاركة قليلة",0.00
+"Albert Grønbaek","Hamburger SV","de Bundesliga","MF",24.0,2001,7,6,492,5.5,1,2,3,0,0,8,4,2,6,10,18.2,"مشاركة قليلة",0.55
+"Jovan Milošević","Werder Bremen","de Bundesliga","FW",20.0,2005,13,5,488,5.4,3,1,4,2,0,12,4,8,3,2,18.1,"مشاركة قليلة",0.74
+"Niklas Süle","Dortmund","de Bundesliga","DF",29.0,1995,11,7,486,5.4,0,1,1,3,0,2,1,8,1,5,18.0,"مشاركة قليلة",0.19
+"Lennard Maloney","Mainz 05","de Bundesliga","DF,MF",25.0,1999,21,4,485,5.4,0,0,0,1,0,5,1,13,3,8,18.0,"مشاركة قليلة",0.00
+"Jonas Wind","Wolfsburg","de Bundesliga","FW",26.0,1999,11,5,481,5.3,1,0,1,1,0,9,6,2,14,0,17.8,"مشاركة قليلة",0.19
+"Lucas Vázquez","Leverkusen","de Bundesliga","MF",34.0,1991,12,6,481,5.3,1,2,3,2,0,4,1,6,8,4,17.8,"مشاركة قليلة",0.56
+"Philip Otele","Hamburger SV","de Bundesliga","MF,FW",26.0,1999,9,7,471,5.2,1,1,2,3,1,7,3,8,4,2,17.4,"مشاركة قليلة",0.38
+"Arnaud Nordin","Mainz 05","de Bundesliga","MF,FW",27.0,1998,13,5,469,5.2,0,0,0,0,0,13,2,4,13,6,17.4,"مشاركة قليلة",0.00
+"Badredine Bouanani","Stuttgart","de Bundesliga","MF",20.0,2004,14,5,463,5.1,0,0,0,1,0,16,4,1,6,3,17.1,"مشاركة قليلة",0.00
+"Sacha Boey","Bayern Munich","de Bundesliga","DF",24.0,2000,9,5,463,5.1,0,0,0,1,0,6,0,10,8,4,17.1,"مشاركة قليلة",0.00
+"Alex Král","Union Berlin","de Bundesliga","MF",27.0,1998,20,2,459,5.1,0,0,0,1,0,7,3,4,11,5,17.0,"مشاركة قليلة",0.00
+"Fabio Baldé","Hamburger SV","de Bundesliga","FW,MF",20.0,2005,16,3,448,5.0,1,1,2,1,0,9,4,4,2,7,16.6,"مشاركة قليلة",0.40
+"Junior Adamu","Freiburg","de Bundesliga","FW",24.0,2001,9,7,446,5.0,1,1,2,1,0,8,3,10,9,6,16.5,"مشاركة قليلة",0.40
+"Max Moerstedt","Hoffenheim","de Bundesliga","FW",19.0,2006,22,1,420,4.7,2,0,2,2,0,6,4,14,10,3,15.6,"مشاركة قليلة",0.43
+"Samuel Essende","Augsburg","de Bundesliga","MF,FW",27.0,1998,14,2,414,4.6,1,0,1,2,0,17,4,17,14,2,15.3,"مشاركة قليلة",0.22
+"Christian Conteh","Heidenheim","de Bundesliga","MF,FW",25.0,1999,9,4,404,4.5,0,0,0,0,0,3,0,4,3,1,15.0,"مشاركة قليلة",0.00
+"Samuele Inácio","Dortmund","de Bundesliga","MF",17.0,2008,7,4,384,4.3,1,0,1,2,0,9,5,7,10,2,14.2,"مشاركة قليلة",0.23
+"Dominique Heintz","Köln","de Bundesliga","DF",31.0,1993,9,5,382,4.2,0,0,0,0,0,0,0,2,4,1,14.1,"مشاركة قليلة",0.00
+"Ameen Al-Dakhil","Stuttgart","de Bundesliga","DF",23.0,2002,8,3,380,4.2,0,0,0,1,0,1,0,1,0,3,14.1,"مشاركة قليلة",0.00
+"Jesper Lindstrøm","Wolfsburg","de Bundesliga","MF",25.0,2000,13,4,379,4.2,0,0,0,2,0,9,5,10,4,6,14.0,"مشاركة قليلة",0.00
+"Aaron Anselmino","Dortmund","de Bundesliga","DF",20.0,2005,6,4,368,4.1,1,0,1,0,0,1,1,6,3,8,13.6,"مشاركة قليلة",0.24
+"Andreas Skov Olsen","Wolfsburg","de Bundesliga","MF",25.0,1999,8,4,362,4.0,1,0,1,1,0,7,2,1,4,1,13.4,"مشاركة قليلة",0.25
+"Patrice Čović","Werder Bremen","de Bundesliga","MF",18.0,2007,15,2,351,3.9,1,0,1,1,0,5,2,6,2,6,13.0,"مشاركة قليلة",0.26
+"Ricky-Jade Jones","St Pauli","de Bundesliga","FW",24.0,2001,9,3,351,3.9,2,0,2,1,0,11,6,8,7,2,13.0,"مشاركة قليلة",0.51
+"Tidiam Gomis","RB Leipzig","de Bundesliga","FW",18.0,2006,18,2,348,3.9,1,0,1,1,0,9,3,4,3,2,12.9,"مشاركة قليلة",0.26
+"Cyriaque Irié","Freiburg","de Bundesliga","MF",20.0,2005,10,3,347,3.9,0,0,0,3,0,7,2,11,8,6,12.9,"مشاركة قليلة",0.00
+"Kōta Takai","Gladbach","de Bundesliga","DF",20.0,2004,8,3,342,3.8,0,0,0,1,0,3,2,3,3,4,12.7,"مشاركة قليلة",0.00
+"Abdoulie Ceesay","St Pauli","de Bundesliga","FW",21.0,2004,20,0,336,3.7,3,0,3,4,0,11,4,14,6,2,12.4,"مشاركة قليلة",0.80
+"Yussuf Poulsen","Hamburger SV","de Bundesliga","FW",31.0,1994,15,1,334,3.7,1,0,1,4,0,7,3,13,3,2,12.4,"مشاركة قليلة",0.27
+"Silas Katompa","Mainz 05","de Bundesliga","FW",26.0,1998,8,4,334,3.7,1,0,1,1,0,8,7,4,5,0,12.4,"مشاركة قليلة",0.27
+"Victor Boniface","Werder Bremen","de Bundesliga","FW",24.0,2000,11,2,333,3.7,0,2,2,1,0,16,6,1,6,1,12.3,"مشاركة قليلة",0.54
+"Josip Juranović","Union Berlin","de Bundesliga","MF",29.0,1995,11,3,330,3.7,1,1,2,1,0,4,1,0,3,4,12.2,"مشاركة قليلة",0.55
+"Carl Klaus","Union Berlin","de Bundesliga","GK",31.0,1994,4,3,330,3.7,0,0,0,0,0,0,0,0,0,0,12.2,"مشاركة قليلة",0.00
+"Elye Wahi","Eintracht Frankfurt","de Bundesliga","FW",22.0,2003,10,3,324,3.6,0,1,1,1,0,7,3,2,4,1,12.0,"مشاركة قليلة",0.28
+"Alexander Røssing-Lelesiit","Hamburger SV","de Bundesliga","FW,MF",18.0,2007,11,5,321,3.6,0,1,1,3,1,2,2,13,7,2,11.9,"مشاركة قليلة",0.28
+"Robin Hack","Gladbach","de Bundesliga","MF",26.0,1998,8,3,320,3.6,1,0,1,1,0,11,4,4,3,2,11.9,"مشاركة قليلة",0.28
+"Kento Shiogai","Wolfsburg","de Bundesliga","MF",20.0,2005,12,2,318,3.5,1,0,1,3,0,9,6,8,3,4,11.8,"مشاركة قليلة",0.28
+"Sota Kawasaki","Mainz 05","de Bundesliga","MF,DF",24.0,2001,10,3,309,3.4,0,0,0,1,0,1,0,6,2,5,11.4,"مشاركة قليلة",0.00
+"Benjamin Henrichs","RB Leipzig","de Bundesliga","DF",28.0,1997,17,3,305,3.4,1,0,1,0,0,4,2,3,1,6,11.3,"مشاركة قليلة",0.30
+"Otto Stange","Hamburger SV","de Bundesliga","FW",18.0,2007,10,2,293,3.3,0,0,0,0,0,9,1,5,6,3,10.9,"مشاركة قليلة",0.00
+"Lasse Rieß","Mainz 05","de Bundesliga","GK",24.0,2001,4,3,292,3.2,0,0,0,0,0,0,0,0,1,0,10.8,"مشاركة قليلة",0.00
+"Jeanuël Belocian","Leverkusen","de Bundesliga","DF",20.0,2005,8,3,292,3.2,0,0,0,0,0,1,0,5,5,2,10.8,"مشاركة قليلة",0.00
+"Nicolas Höfler","Freiburg","de Bundesliga","MF",35.0,1990,13,2,291,3.2,0,0,0,0,0,4,2,6,3,6,10.8,"مشاركة قليلة",0.00
+"Florian Kainz","Köln","de Bundesliga","MF",32.0,1992,15,2,279,3.1,1,1,2,1,0,8,4,5,4,2,10.3,"مشاركة قليلة",0.65
+"Muhammed Damar","Hoffenheim","de Bundesliga","MF,FW",21.0,2004,15,2,277,3.1,0,0,0,0,0,12,8,4,2,3,10.3,"مشاركة قليلة",0.00
+"Frank Feller","Heidenheim","de Bundesliga","GK",21.0,2004,3,3,270,3.0,0,0,0,0,0,0,0,0,2,1,10.0,"مشاركة قليلة",0.00
+"Eliesse Ben Seghir","Leverkusen","de Bundesliga","MF",20.0,2005,10,2,252,2.8,0,0,0,2,0,5,2,3,10,2,9.3,"مشاركة قليلة",0.00
+"Kosta Nedeljković","RB Leipzig","de Bundesliga","DF",19.0,2005,5,3,251,2.8,0,0,0,0,0,0,0,1,1,1,9.3,"مشاركة قليلة",0.00
+"Eren Dinkçi","Freiburg","de Bundesliga","MF",23.0,2001,8,3,248,2.8,0,0,0,1,0,4,0,2,1,4,9.2,"مشاركة قليلة",0.00
+"Yannik Keitel","Augsburg","de Bundesliga","MF,DF",25.0,2000,6,2,248,2.8,0,0,0,2,0,0,0,3,2,4,9.2,"مشاركة قليلة",0.00
+"Jan Bürger","Wolfsburg","de Bundesliga","MF,DF",18.0,2007,7,2,247,2.7,0,0,0,0,0,2,1,4,5,3,9.1,"مشاركة قليلة",0.00
+"Arthur Chaves","Hoffenheim","de Bundesliga","DF",24.0,2001,4,2,240,2.7,0,0,0,1,0,1,0,5,3,5,8.9,"مشاركة قليلة",0.00
+"William Bøving","Mainz 05","de Bundesliga","MF",22.0,2003,9,2,223,2.5,0,1,1,1,0,1,0,2,2,2,8.3,"مشاركة قليلة",0.40
+"Axel Tapé","Leverkusen","de Bundesliga","MF,DF",17.0,2007,6,2,222,2.5,0,0,0,1,0,3,1,7,7,1,8.2,"مشاركة قليلة",0.00
+"Robert Skov","Union Berlin","de Bundesliga","DF,MF",29.0,1996,3,3,220,2.4,0,0,0,0,0,1,0,5,3,5,8.1,"مشاركة قليلة",0.00
+"Mads Pedersen","Augsburg","de Bundesliga","MF",28.0,1996,7,1,210,2.3,0,0,0,0,0,3,0,5,3,2,7.8,"مشاركة قليلة",0.00
+"Dan-Axel Zagadou","Stuttgart","de Bundesliga","DF",26.0,1999,3,3,209,2.3,0,0,0,0,0,6,1,5,1,4,7.7,"مشاركة قليلة",0.00
+"Leonidas Stergiou","Heidenheim","de Bundesliga","DF",23.0,2002,5,1,206,2.3,0,0,0,0,0,1,0,3,1,3,7.6,"مشاركة قليلة",0.00
+"Salim Musah","Werder Bremen","de Bundesliga","FW",19.0,2006,8,2,198,2.2,1,0,1,0,0,7,4,4,3,1,7.3,"مشاركة قليلة",0.45
+"Phillip Tietz","Augsburg","de Bundesliga","FW",28.0,1997,10,0,198,2.2,1,0,1,2,0,6,3,6,4,1,7.3,"مشاركة قليلة",0.45
+"Youssoupha Niang","Köln","de Bundesliga","MF",19.0,2006,10,2,194,2.2,0,0,0,0,0,5,1,6,4,1,7.2,"مشاركة قليلة",0.00
+"Ihlas Bebou","Hoffenheim","de Bundesliga","FW,MF",31.0,1994,16,0,190,2.1,0,0,0,1,0,5,2,6,2,1,7.0,"مشاركة قليلة",0.00
+"Thomas Keller","Heidenheim","de Bundesliga","DF",25.0,1999,4,3,188,2.1,0,0,0,1,0,2,0,3,2,1,7.0,"مشاركة قليلة",0.00
+"Karl Jakob Hein","Werder Bremen","de Bundesliga","GK",23.0,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0,0,6.7,"مشاركة قليلة",0.00
+"Léo Scienza","Heidenheim","de Bundesliga","MF",26.0,1998,2,2,180,2.0,1,0,1,0,0,4,1,1,7,2,6.7,"مشاركة قليلة",0.50
+"Kevin Paredes","Wolfsburg","de Bundesliga","MF",22.0,2003,6,1,164,1.8,0,0,0,1,0,2,1,2,6,3,6.1,"مشاركة قليلة",0.00
+"Maxim Leitsch","Mainz 05","de Bundesliga","DF",27.0,1998,3,2,162,1.8,0,0,0,0,0,1,0,2,1,1,6.0,"مشاركة قليلة",0.00
+"Marvin Friedrich","Gladbach","de Bundesliga","DF",29.0,1995,6,1,152,1.7,0,0,0,0,0,0,0,2,2,3,5.6,"مشاركة قليلة",0.00
+"Dapo Afolayan","St Pauli","de Bundesliga","MF",27.0,1997,7,1,150,1.7,0,0,0,1,0,4,2,2,6,2,5.6,"مشاركة قليلة",0.00
+"Jonas Meffert","Hamburger SV","de Bundesliga","MF",30.0,1994,4,1,145,1.6,0,0,0,0,0,0,0,1,0,3,5.4,"مشاركة قليلة",0.00
+"Aurélio Buta","Eintracht Frankfurt","de Bundesliga","DF",28.0,1997,4,1,144,1.6,0,0,0,1,0,1,0,3,2,5,5.3,"مشاركة قليلة",0.00
+"Bara Ndiaye","Bayern Munich","de Bundesliga","MF",17.0,2007,4,2,143,1.6,0,0,0,0,0,0,0,1,3,5,5.3,"مشاركة قليلة",0.00
+"Michy Batshuayi","Eintracht Frankfurt","de Bundesliga","FW",31.0,1993,6,1,139,1.5,1,0,1,0,0,5,1,2,1,1,5.1,"مشاركة قليلة",0.65
+"Jonas Adjetey","Wolfsburg","de Bundesliga","DF",21.0,2003,4,1,137,1.5,0,0,0,1,0,3,0,4,0,1,5.1,"مشاركة قليلة",0.00
+"Umut Tohumcu","Hoffenheim","de Bundesliga","MF",20.0,2004,5,1,136,1.5,0,0,0,2,0,2,0,2,2,1,5.0,"مشاركة قليلة",0.00
+"Aboubaka Soumahoro","Hamburger SV","de Bundesliga","MF,DF",20.0,2005,4,2,136,1.5,0,0,0,1,0,0,0,3,0,0,5.0,"مشاركة قليلة",0.00
+"Claudio Echeverri","Leverkusen","de Bundesliga","MF",19.0,2006,6,1,134,1.5,0,0,0,0,0,1,0,0,2,1,5.0,"مشاركة قليلة",0.00
+"Younes Ebnoutalib","Eintracht Frankfurt","de Bundesliga","FW",21.0,2003,5,2,133,1.5,1,0,1,0,0,5,2,2,2,0,4.9,"مشاركة قليلة",0.68
+"Filippo Mane","Dortmund","de Bundesliga","DF",20.0,2005,4,2,131,1.5,0,0,0,0,1,0,0,1,2,0,4.9,"مشاركة قليلة",0.00
+"Emir Sahiti","Hamburger SV","de Bundesliga","FW",26.0,1998,2,2,120,1.3,0,0,0,0,0,0,0,0,1,0,4.4,"مشاركة قليلة",0.00
+"Grant Ranos","Gladbach","de Bundesliga","FW",22.0,2003,8,0,119,1.3,1,0,1,1,0,4,2,1,1,1,4.4,"مشاركة قليلة",0.76
+"Pascal Stenzel","Stuttgart","de Bundesliga","MF",29.0,1996,2,2,106,1.2,0,0,0,2,0,3,1,2,2,0,3.9,"مشاركة قليلة",0.00
+"Felipe Chávez","Köln","de Bundesliga","MF",18.0,2007,7,0,102,1.1,0,0,0,0,0,5,1,1,1,2,3.8,"مشاركة قليلة",0.00
+"Fynn Schenten","Köln","de Bundesliga","FW",17.0,2007,7,1,100,1.1,0,0,0,0,0,1,0,2,0,0,3.7,"مشاركة قليلة",0.00
+"Lukas Klostermann","RB Leipzig","de Bundesliga","DF",29.0,1996,5,1,95,1.1,0,1,1,0,0,2,1,0,0,0,3.5,"مشاركة قليلة",0.95
+"Ismaël Gharbi","Augsburg","de Bundesliga","MF",21.0,2004,6,0,94,1.0,0,0,0,0,0,3,0,2,8,1,3.5,"مشاركة قليلة",0.00
+"Andrija Maksimović","RB Leipzig","de Bundesliga","FW",18.0,2007,8,0,93,1.0,0,0,0,0,0,2,0,1,2,0,3.4,"مشاركة قليلة",0.00
+"Adam Kölle","Heidenheim","de Bundesliga","DF",19.0,2006,6,0,93,1.0,1,0,1,1,0,2,1,5,1,1,3.4,"مشاركة قليلة",0.97
+"Piero Hincapié","Leverkusen","de Bundesliga","DF",23.0,2002,1,1,90,1.0,0,0,0,0,0,2,1,2,0,0,3.3,"مشاركة قليلة",0.00
+"Xavi Simons","RB Leipzig","de Bundesliga","MF",22.0,2003,1,1,90,1.0,0,0,0,0,0,0,0,1,3,0,3.3,"مشاركة قليلة",0.00
+"Nick Woltemade","Stuttgart","de Bundesliga","MF",23.0,2002,1,1,90,1.0,0,0,0,0,0,0,0,1,3,0,3.3,"مشاركة قليلة",0.00
+"Matheo Raab","Union Berlin","de Bundesliga","GK",26.0,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0,0,3.3,"مشاركة قليلة",0.00
+"Sven Ulreich","Bayern Munich","de Bundesliga","GK",36.0,1988,1,1,90,1.0,0,0,0,1,0,0,0,0,1,0,3.3,"مشاركة قليلة",0.00
+"Sander Tangvik","Hamburger SV","de Bundesliga","GK",22.0,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,1,0,3.3,"مشاركة قليلة",0.00
+"Salih Özcan","Dortmund","de Bundesliga","MF",27.0,1998,11,0,81,0.9,0,0,0,0,0,1,0,1,1,2,3.0,"مشاركة قليلة",0.00
+"Cole Campbell","Hoffenheim","de Bundesliga","FW",19.0,2006,5,0,79,0.9,0,0,0,0,0,1,0,0,1,0,2.9,"مشاركة قليلة",0.00
+"Fabio Moreno Fell","Mainz 05","de Bundesliga","FW",25.0,2000,2,1,77,0.9,0,0,0,0,0,1,0,0,0,0,2.9,"مشاركة قليلة",0.00
+"Elias Baum","Eintracht Frankfurt","de Bundesliga","DF",19.0,2005,5,0,75,0.8,0,0,0,0,0,0,0,3,0,0,2.8,"مشاركة قليلة",0.00
+"Alejo Sarco","Leverkusen","de Bundesliga","FW",19.0,2006,3,0,74,0.8,0,0,0,0,0,2,0,2,2,0,2.7,"مشاركة قليلة",0.00
+"Cenny Neumann","Köln","de Bundesliga","DF",18.0,2007,2,1,74,0.8,0,0,0,0,0,0,0,1,0,1,2.7,"مشاركة قليلة",0.00
+"Pharell Hensel","Wolfsburg","de Bundesliga","MF",18.0,2007,5,1,69,0.8,0,0,0,0,0,1,0,0,1,1,2.6,"مشاركة قليلة",0.00
+"Merlin Röhl","Freiburg","de Bundesliga","MF",23.0,2002,2,0,66,0.7,0,0,0,0,0,0,0,2,0,1,2.4,"مشاركة قليلة",0.00
+"Love Arrhov","Eintracht Frankfurt","de Bundesliga","MF",17.0,2008,5,1,65,0.7,0,0,0,1,0,0,0,2,1,2,2.4,"مشاركة قليلة",0.00
+"Jessic Ngankam","Eintracht Frankfurt","de Bundesliga","FW",25.0,2000,3,0,62,0.7,0,0,0,0,0,0,0,4,2,0,2.3,"مشاركة قليلة",0.00
+"Kevin Akpoguma","Hoffenheim","de Bundesliga","DF",30.0,1995,8,1,61,0.7,0,0,0,0,1,0,0,1,0,1,2.3,"مشاركة قليلة",0.00
+"Valentin Gendrey","Hoffenheim","de Bundesliga","DF",25.0,2000,8,0,59,0.7,1,1,2,0,0,2,1,2,1,0,2.2,"مشاركة قليلة",3.05
+"Alejo Sarco","Gladbach","de Bundesliga","FW",19.0,2006,3,0,53,0.6,0,0,0,0,0,2,0,0,0,0,2.0,"مشاركة قليلة",0.00
+"Loïs Openda","RB Leipzig","de Bundesliga","FW",25.0,2000,2,1,51,0.6,0,0,0,0,0,3,0,0,3,0,1.9,"مشاركة قليلة",0.00
+"Yannik Wagner","Heidenheim","de Bundesliga","FW",18.0,2007,4,0,49,0.5,0,0,0,0,0,1,0,0,0,0,1.8,"مشاركة قليلة",0.00
+"Guilherme Ramos","Hamburger SV","de Bundesliga","DF",27.0,1997,8,0,48,0.5,0,0,0,0,0,1,1,1,1,0,1.8,"مشاركة قليلة",0.00
+"Uchenna Ogundu","Augsburg","de Bundesliga","FW",19.0,2006,5,0,47,0.5,0,0,0,0,0,3,0,1,1,0,1.7,"مشاركة قليلة",0.00
+"Václav Černý","Wolfsburg","de Bundesliga","FW,MF",27.0,1997,2,0,47,0.5,0,0,0,0,0,1,0,0,2,0,1.7,"مشاركة قليلة",0.00
+"Koki Machida","Hoffenheim","de Bundesliga","DF",27.0,1997,1,1,44,0.5,0,0,0,1,0,0,0,2,0,0,1.6,"مشاركة قليلة",0.00
+"Oscar Fraulo","Gladbach","de Bundesliga","MF",21.0,2003,4,0,43,0.5,1,0,1,0,0,1,1,3,0,0,1.6,"مشاركة قليلة",2.09
+"Adam Hložek","Hoffenheim","de Bundesliga","FW,MF",23.0,2002,5,0,41,0.5,0,0,0,0,0,3,1,0,1,0,1.5,"مشاركة قليلة",0.00
+"Lazar Jovanović","Stuttgart","de Bundesliga","FW",18.0,2006,3,0,40,0.4,0,0,0,0,0,1,0,1,1,0,1.5,"مشاركة قليلة",0.00
+"Jan Urbich","Gladbach","de Bundesliga","DF",21.0,2004,3,0,39,0.4,0,0,0,0,0,0,0,1,2,0,1.4,"مشاركة قليلة",0.00
+"Jeremy Arévalo","Stuttgart","de Bundesliga","FW",20.0,2005,7,0,38,0.4,0,0,0,0,0,3,1,0,3,0,1.4,"مشاركة قليلة",0.00
+"Mick Schmetgens","Werder Bremen","de Bundesliga","MF",17.0,2007,2,0,37,0.4,0,0,0,0,0,0,0,0,0,0,1.4,"مشاركة قليلة",0.00
+"Maximilian Wöber","Werder Bremen","de Bundesliga","DF",27.0,1998,2,0,37,0.4,0,0,0,0,0,0,0,1,0,1,1.4,"مشاركة قليلة",0.00
+"Bence Dárdai","Wolfsburg","de Bundesliga","MF",19.0,2006,1,0,35,0.4,0,0,0,0,0,0,0,1,0,1,1.3,"مشاركة قليلة",0.00
+"Immanuel Pherai","Hamburger SV","de Bundesliga","FW,MF",24.0,2001,6,0,35,0.4,0,0,0,2,1,1,0,4,2,1,1.3,"مشاركة قليلة",0.00
+"Skelly Alvero","Werder Bremen","de Bundesliga","MF",23.0,2002,2,0,34,0.4,0,0,0,0,0,0,0,0,1,0,1.3,"مشاركة قليلة",0.00
+"Aiman Dardari","Augsburg","de Bundesliga","MF",20.0,2005,3,0,34,0.4,0,0,0,1,0,1,0,1,1,0,1.3,"مشاركة قليلة",0.00
+"Maycon Cardozo","Bayern Munich","de Bundesliga","MF",16.0,2008,2,0,34,0.4,0,0,0,0,0,0,0,0,2,0,1.3,"مشاركة قليلة",0.00
+"Wisdom Mike","Bayern Munich","de Bundesliga","FW",16.0,2008,4,0,30,0.3,0,0,0,0,0,2,1,0,0,0,1.1,"مشاركة قليلة",0.00
+"Maximilian Philipp","Freiburg","de Bundesliga","FW,MF",31.0,1994,2,0,29,0.3,0,0,0,0,0,0,0,2,0,1,1.1,"مشاركة قليلة",0.00
+"David Daiber","Bayern Munich","de Bundesliga","FW",18.0,2007,2,0,29,0.3,0,0,0,0,0,1,0,2,0,0,1.1,"مشاركة قليلة",0.00
+"Finley Stevens","St Pauli","de Bundesliga","DF",22.0,2003,1,0,27,0.3,0,0,0,0,0,0,0,0,0,0,1.0,"مشاركة قليلة",0.00
+"Taichi Hara","St Pauli","de Bundesliga","FW",26.0,1999,4,0,27,0.3,0,0,0,0,0,1,0,0,0,0,1.0,"مشاركة قليلة",0.00
+"Jusuf Gazibegović","Köln","de Bundesliga","DF",25.0,2000,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0.9,"مشاركة قليلة",0.00
+"Marin Ljubicic","Union Berlin","de Bundesliga","FW",23.0,2002,2,0,22,0.2,2,0,2,0,0,2,2,2,0,0,0.8,"مشاركة قليلة",8.18
+"Tim Oermann","Leverkusen","de Bundesliga","DF",21.0,2003,2,0,18,0.2,0,0,0,0,0,0,0,0,1,1,0.7,"مشاركة قليلة",0.00
+"Cole Campbell","Dortmund","de Bundesliga","FW",19.0,2006,1,0,17,0.2,0,0,0,0,0,1,0,0,0,0,0.6,"مشاركة قليلة",0.00
+"Almugera Kabar","Dortmund","de Bundesliga","DF",19.0,2006,1,0,16,0.2,0,0,0,0,0,1,0,0,0,1,0.6,"مشاركة قليلة",0.00
+"Shafiq Nandja","Hamburger SV","de Bundesliga","DF",18.0,2007,2,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0.6,"مشاركة قليلة",0.00
+"Felipe Chávez","Bayern Munich","de Bundesliga","MF",18.0,2007,2,0,14,0.2,0,0,0,0,0,1,0,0,0,0,0.5,"مشاركة قليلة",0.00
+"Timo Werner","RB Leipzig","de Bundesliga","FW,MF",29.0,1996,3,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0.5,"مشاركة قليلة",0.00
+"Timothy Chandler","Eintracht Frankfurt","de Bundesliga","DF,MF",35.0,1990,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0.4,"مشاركة قليلة",0.00
+"Luka Đurić","Hoffenheim","de Bundesliga","MF",22.0,2003,1,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0.4,"مشاركة قليلة",0.00
+"Ben Bobzien","Mainz 05","de Bundesliga","FW,MF",22.0,2003,1,0,9,0.1,0,0,0,0,0,0,0,0,0,2,0.3,"مشاركة قليلة",0.00
+"Tim Kleindienst","Gladbach","de Bundesliga","FW",29.0,1995,3,0,7,0.1,0,0,0,0,0,0,0,1,0,1,0.3,"مشاركة قليلة",0.00
+"Rouven Tarnutzer","Freiburg","de Bundesliga","FW",18.0,2007,1,0,7,0.1,0,0,0,0,0,0,0,0,1,0,0.3,"مشاركة قليلة",0.00
+"Linus Güther","Union Berlin","de Bundesliga","MF",15.0,2010,1,0,7,0.1,0,0,0,1,0,0,0,1,0,0,0.3,"مشاركة قليلة",0.00
+"Tim Schnitzer","Augsburg","de Bundesliga","MF",17.0,2008,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0.2,"مشاركة قليلة",0.00
+"Leart Paqarada","Heidenheim","de Bundesliga","DF",30.0,1994,1,1,6,0.1,0,0,0,0,0,0,0,0,0,0,0.2,"مشاركة قليلة",0.00
+"Dmytro Bohdanov","Union Berlin","de Bundesliga","MF",18.0,2007,2,0,6,0.1,0,0,0,0,0,3,1,0,0,0,0.2,"مشاركة قليلة",0.00
+"Deniz Ofli","Bayern Munich","de Bundesliga","DF",18.0,2007,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0.2,"مشاركة قليلة",0.00
+"Jonah Kusi-Asare","Bayern Munich","de Bundesliga","FW",18.0,2007,1,0,5,0.1,0,0,0,0,0,0,0,1,0,0,0.2,"مشاركة قليلة",0.00
+"Charles Herrmann","Gladbach","de Bundesliga","FW",19.0,2006,1,0,5,0.1,0,1,1,0,0,0,0,1,0,0,0.2,"مشاركة قليلة",18.00
+"Erblin Osmani","Bayern Munich","de Bundesliga","MF",16.0,2009,1,0,4,0.0,0,0,0,0,0,0,0,0,0,0,0.1,"مشاركة قليلة",0.00
+"Samba Konaté","RB Leipzig","de Bundesliga","FW",16.0,2009,1,0,4,0.0,0,0,0,0,0,1,0,0,0,0,0.1,"مشاركة قليلة",0.00
+"Arne Maier","Augsburg","de Bundesliga","MF",26.0,1999,1,0,4,0.0,0,0,0,0,0,0,0,0,0,1,0.1,"مشاركة قليلة",0.00
+"Kevin Kampl","RB Leipzig","de Bundesliga","MF",34.0,1990,3,0,3,0.0,0,0,0,0,0,0,0,0,0,0,0.1,"مشاركة قليلة",0.00
+"Mathis Albert","Dortmund","de Bundesliga","FW",16.0,2009,1,0,2,0.0,0,0,0,0,0,0,0,1,0,1,0.1,"مشاركة قليلة",0.00
+"Isak Hansen-Aarøen","Werder Bremen","de Bundesliga","MF",20.0,2004,1,0,2,0.0,0,0,0,0,0,0,0,0,0,2,0.1,"مشاركة قليلة",0.00
+"Tobias Weigel","Heidenheim","de Bundesliga","FW",18.0,2007,1,0,2,0.0,0,0,0,0,0,0,0,0,0,0,0.1,"مشاركة قليلة",0.00
+"Louis Lemke","Hamburger SV","de Bundesliga","DF",15.0,2009,1,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0.0,"مشاركة قليلة",0.00
+"Yannick Eduardo","Hoffenheim","de Bundesliga","FW",19.0,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0.0,"مشاركة قليلة",0.00
+"Cassiano Kiala","Bayern Munich","de Bundesliga","DF",16.0,2009,1,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0.0,"مشاركة قليلة",0.00
+"Leonidas Stergiou","Stuttgart","de Bundesliga","DF",23.0,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0,0,0.0,"مشاركة قليلة",0.00
